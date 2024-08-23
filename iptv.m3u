@@ -1,1043 +1,1683 @@
 #EXTM3U
-#EXT-X-VERSION 1724295211
+#EXT-X-VERSION 1724393182
 
-#EXTINF:-1,tvg-id="1-CCTV1-综合" tvg-name="1-CCTV1-综合" group-title="俄罗斯组播 Russia Infoline",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV2-财经" tvg-name="1-CCTV2-财经" group-title="俄罗斯组播 Russia Infoline",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV3-综艺" tvg-name="1-CCTV3-综艺" group-title="俄罗斯组播 Russia Infoline",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV4-国际" tvg-name="1-CCTV4-国际" group-title="俄罗斯组播 Russia Infoline",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV5-体育" tvg-name="1-CCTV5-体育" group-title="俄罗斯组播 Russia Infoline",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV6-电影" tvg-name="1-CCTV6-电影" group-title="俄罗斯组播 Russia Infoline",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV7-军农" tvg-name="1-CCTV7-军农" group-title="俄罗斯组播 Russia Infoline",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV8-电视剧" tvg-name="1-CCTV8-电视剧" group-title="俄罗斯组播 Russia Infoline",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV9-纪录" tvg-name="1-CCTV9-纪录" group-title="俄罗斯组播 Russia Infoline",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV10-科教" tvg-name="1-CCTV10-科教" group-title="俄罗斯组播 Russia Infoline",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV11-戏曲" tvg-name="1-CCTV11-戏曲" group-title="俄罗斯组播 Russia Infoline",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV12-社会与法" tvg-name="1-CCTV12-社会与法" group-title="俄罗斯组播 Russia Infoline",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV13-新闻" tvg-name="1-CCTV13-新闻" group-title="俄罗斯组播 Russia Infoline",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV14-少儿" tvg-name="1-CCTV14-少儿" group-title="俄罗斯组播 Russia Infoline",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="1-CCTV15-音乐" tvg-name="1-CCTV15-音乐" group-title="俄罗斯组播 Russia Infoline",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="1-山西卫视" tvg-name="1-山西卫视" group-title="俄罗斯组播 Russia Infoline",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="1-湖南卫视" tvg-name="1-湖南卫视" group-title="俄罗斯组播 Russia Infoline",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="1-浙江卫视" tvg-name="1-浙江卫视" group-title="俄罗斯组播 Russia Infoline",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="1-广东卫视" tvg-name="1-广东卫视" group-title="俄罗斯组播 Russia Infoline",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="1-深圳卫视" tvg-name="1-深圳卫视" group-title="俄罗斯组播 Russia Infoline",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="1-天津卫视" tvg-name="1-天津卫视" group-title="俄罗斯组播 Russia Infoline",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="1-山东卫视" tvg-name="1-山东卫视" group-title="俄罗斯组播 Russia Infoline",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="1-重庆卫视" tvg-name="1-重庆卫视" group-title="俄罗斯组播 Russia Infoline",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="1-金鹰卡通" tvg-name="1-金鹰卡通" group-title="俄罗斯组播 Russia Infoline",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="1-湖北卫视" tvg-name="1-湖北卫视" group-title="俄罗斯组播 Russia Infoline",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="1-黑龙江卫视" tvg-name="1-黑龙江卫视" group-title="俄罗斯组播 Russia Infoline",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="1-辽宁卫视" tvg-name="1-辽宁卫视" group-title="俄罗斯组播 Russia Infoline",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="1-上海卫视" tvg-name="1-上海卫视" group-title="俄罗斯组播 Russia Infoline",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="1-江苏卫视" tvg-name="1-江苏卫视" group-title="俄罗斯组播 Russia Infoline",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="1-北京卫视" tvg-name="1-北京卫视" group-title="俄罗斯组播 Russia Infoline",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="1-四川卫视" tvg-name="1-四川卫视" group-title="俄罗斯组播 Russia Infoline",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="1-河南卫视" tvg-name="1-河南卫视" group-title="俄罗斯组播 Russia Infoline",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="1-贵州卫视" tvg-name="1-贵州卫视" group-title="俄罗斯组播 Russia Infoline",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="1-东南卫视" tvg-name="1-东南卫视" group-title="俄罗斯组播 Russia Infoline",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="1-广西卫视" tvg-name="1-广西卫视" group-title="俄罗斯组播 Russia Infoline",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="1-江西卫视" tvg-name="1-江西卫视" group-title="俄罗斯组播 Russia Infoline",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="1-吉林卫视" tvg-name="1-吉林卫视" group-title="俄罗斯组播 Russia Infoline",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="1-青海卫视" tvg-name="1-青海卫视" group-title="俄罗斯组播 Russia Infoline",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="1-安徽卫视" tvg-name="1-安徽卫视" group-title="俄罗斯组播 Russia Infoline",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="1-陕西卫视" tvg-name="1-陕西卫视" group-title="俄罗斯组播 Russia Infoline",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV1-综合" tvg-name="2-CCTV1-综合" group-title="浙江省杭州市组播 浙江电信",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV2-财经" tvg-name="2-CCTV2-财经" group-title="浙江省杭州市组播 浙江电信",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV3-综艺" tvg-name="2-CCTV3-综艺" group-title="浙江省杭州市组播 浙江电信",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV4-国际" tvg-name="2-CCTV4-国际" group-title="浙江省杭州市组播 浙江电信",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV5-体育" tvg-name="2-CCTV5-体育" group-title="浙江省杭州市组播 浙江电信",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV6-电影" tvg-name="2-CCTV6-电影" group-title="浙江省杭州市组播 浙江电信",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV7-军农" tvg-name="2-CCTV7-军农" group-title="浙江省杭州市组播 浙江电信",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV8-电视剧" tvg-name="2-CCTV8-电视剧" group-title="浙江省杭州市组播 浙江电信",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV9-纪录" tvg-name="2-CCTV9-纪录" group-title="浙江省杭州市组播 浙江电信",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV10-科教" tvg-name="2-CCTV10-科教" group-title="浙江省杭州市组播 浙江电信",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV11-戏曲" tvg-name="2-CCTV11-戏曲" group-title="浙江省杭州市组播 浙江电信",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV12-社会与法" tvg-name="2-CCTV12-社会与法" group-title="浙江省杭州市组播 浙江电信",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV13-新闻" tvg-name="2-CCTV13-新闻" group-title="浙江省杭州市组播 浙江电信",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV14-少儿" tvg-name="2-CCTV14-少儿" group-title="浙江省杭州市组播 浙江电信",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="2-CCTV15-音乐" tvg-name="2-CCTV15-音乐" group-title="浙江省杭州市组播 浙江电信",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="2-山西卫视" tvg-name="2-山西卫视" group-title="浙江省杭州市组播 浙江电信",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="2-湖南卫视" tvg-name="2-湖南卫视" group-title="浙江省杭州市组播 浙江电信",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="2-浙江卫视" tvg-name="2-浙江卫视" group-title="浙江省杭州市组播 浙江电信",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="2-广东卫视" tvg-name="2-广东卫视" group-title="浙江省杭州市组播 浙江电信",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="2-深圳卫视" tvg-name="2-深圳卫视" group-title="浙江省杭州市组播 浙江电信",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="2-天津卫视" tvg-name="2-天津卫视" group-title="浙江省杭州市组播 浙江电信",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="2-山东卫视" tvg-name="2-山东卫视" group-title="浙江省杭州市组播 浙江电信",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="2-重庆卫视" tvg-name="2-重庆卫视" group-title="浙江省杭州市组播 浙江电信",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="2-金鹰卡通" tvg-name="2-金鹰卡通" group-title="浙江省杭州市组播 浙江电信",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="2-湖北卫视" tvg-name="2-湖北卫视" group-title="浙江省杭州市组播 浙江电信",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="2-黑龙江卫视" tvg-name="2-黑龙江卫视" group-title="浙江省杭州市组播 浙江电信",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="2-辽宁卫视" tvg-name="2-辽宁卫视" group-title="浙江省杭州市组播 浙江电信",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="2-上海卫视" tvg-name="2-上海卫视" group-title="浙江省杭州市组播 浙江电信",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="2-江苏卫视" tvg-name="2-江苏卫视" group-title="浙江省杭州市组播 浙江电信",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="2-北京卫视" tvg-name="2-北京卫视" group-title="浙江省杭州市组播 浙江电信",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="2-四川卫视" tvg-name="2-四川卫视" group-title="浙江省杭州市组播 浙江电信",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="2-河南卫视" tvg-name="2-河南卫视" group-title="浙江省杭州市组播 浙江电信",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="2-贵州卫视" tvg-name="2-贵州卫视" group-title="浙江省杭州市组播 浙江电信",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="2-东南卫视" tvg-name="2-东南卫视" group-title="浙江省杭州市组播 浙江电信",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="2-广西卫视" tvg-name="2-广西卫视" group-title="浙江省杭州市组播 浙江电信",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="2-江西卫视" tvg-name="2-江西卫视" group-title="浙江省杭州市组播 浙江电信",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="2-吉林卫视" tvg-name="2-吉林卫视" group-title="浙江省杭州市组播 浙江电信",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="2-青海卫视" tvg-name="2-青海卫视" group-title="浙江省杭州市组播 浙江电信",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="2-安徽卫视" tvg-name="2-安徽卫视" group-title="浙江省杭州市组播 浙江电信",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="2-陕西卫视" tvg-name="2-陕西卫视" group-title="浙江省杭州市组播 浙江电信",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV1-综合" tvg-name="3-CCTV1-综合" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV2-财经" tvg-name="3-CCTV2-财经" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV3-综艺" tvg-name="3-CCTV3-综艺" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV4-国际" tvg-name="3-CCTV4-国际" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV5-体育" tvg-name="3-CCTV5-体育" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV6-电影" tvg-name="3-CCTV6-电影" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV7-军农" tvg-name="3-CCTV7-军农" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV8-电视剧" tvg-name="3-CCTV8-电视剧" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV9-纪录" tvg-name="3-CCTV9-纪录" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV10-科教" tvg-name="3-CCTV10-科教" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV11-戏曲" tvg-name="3-CCTV11-戏曲" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV12-社会与法" tvg-name="3-CCTV12-社会与法" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV13-新闻" tvg-name="3-CCTV13-新闻" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV14-少儿" tvg-name="3-CCTV14-少儿" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="3-CCTV15-音乐" tvg-name="3-CCTV15-音乐" group-title="陕西省西安市雁塔区组播 陕西电信",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="3-山西卫视" tvg-name="3-山西卫视" group-title="陕西省西安市雁塔区组播 陕西电信",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="3-湖南卫视" tvg-name="3-湖南卫视" group-title="陕西省西安市雁塔区组播 陕西电信",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="3-浙江卫视" tvg-name="3-浙江卫视" group-title="陕西省西安市雁塔区组播 陕西电信",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="3-广东卫视" tvg-name="3-广东卫视" group-title="陕西省西安市雁塔区组播 陕西电信",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="3-深圳卫视" tvg-name="3-深圳卫视" group-title="陕西省西安市雁塔区组播 陕西电信",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="3-天津卫视" tvg-name="3-天津卫视" group-title="陕西省西安市雁塔区组播 陕西电信",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="3-山东卫视" tvg-name="3-山东卫视" group-title="陕西省西安市雁塔区组播 陕西电信",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="3-重庆卫视" tvg-name="3-重庆卫视" group-title="陕西省西安市雁塔区组播 陕西电信",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="3-金鹰卡通" tvg-name="3-金鹰卡通" group-title="陕西省西安市雁塔区组播 陕西电信",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="3-湖北卫视" tvg-name="3-湖北卫视" group-title="陕西省西安市雁塔区组播 陕西电信",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="3-黑龙江卫视" tvg-name="3-黑龙江卫视" group-title="陕西省西安市雁塔区组播 陕西电信",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="3-辽宁卫视" tvg-name="3-辽宁卫视" group-title="陕西省西安市雁塔区组播 陕西电信",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="3-上海卫视" tvg-name="3-上海卫视" group-title="陕西省西安市雁塔区组播 陕西电信",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="3-江苏卫视" tvg-name="3-江苏卫视" group-title="陕西省西安市雁塔区组播 陕西电信",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="3-北京卫视" tvg-name="3-北京卫视" group-title="陕西省西安市雁塔区组播 陕西电信",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="3-四川卫视" tvg-name="3-四川卫视" group-title="陕西省西安市雁塔区组播 陕西电信",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="3-河南卫视" tvg-name="3-河南卫视" group-title="陕西省西安市雁塔区组播 陕西电信",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="3-贵州卫视" tvg-name="3-贵州卫视" group-title="陕西省西安市雁塔区组播 陕西电信",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="3-东南卫视" tvg-name="3-东南卫视" group-title="陕西省西安市雁塔区组播 陕西电信",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="3-广西卫视" tvg-name="3-广西卫视" group-title="陕西省西安市雁塔区组播 陕西电信",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="3-江西卫视" tvg-name="3-江西卫视" group-title="陕西省西安市雁塔区组播 陕西电信",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="3-吉林卫视" tvg-name="3-吉林卫视" group-title="陕西省西安市雁塔区组播 陕西电信",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="3-青海卫视" tvg-name="3-青海卫视" group-title="陕西省西安市雁塔区组播 陕西电信",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="3-安徽卫视" tvg-name="3-安徽卫视" group-title="陕西省西安市雁塔区组播 陕西电信",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="3-陕西卫视" tvg-name="3-陕西卫视" group-title="陕西省西安市雁塔区组播 陕西电信",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV1-综合" tvg-name="4-CCTV1-综合" group-title="陕西省渭南市组播 陕西电信",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV2-财经" tvg-name="4-CCTV2-财经" group-title="陕西省渭南市组播 陕西电信",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV3-综艺" tvg-name="4-CCTV3-综艺" group-title="陕西省渭南市组播 陕西电信",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV4-国际" tvg-name="4-CCTV4-国际" group-title="陕西省渭南市组播 陕西电信",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV5-体育" tvg-name="4-CCTV5-体育" group-title="陕西省渭南市组播 陕西电信",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV6-电影" tvg-name="4-CCTV6-电影" group-title="陕西省渭南市组播 陕西电信",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV7-军农" tvg-name="4-CCTV7-军农" group-title="陕西省渭南市组播 陕西电信",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV8-电视剧" tvg-name="4-CCTV8-电视剧" group-title="陕西省渭南市组播 陕西电信",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV9-纪录" tvg-name="4-CCTV9-纪录" group-title="陕西省渭南市组播 陕西电信",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV10-科教" tvg-name="4-CCTV10-科教" group-title="陕西省渭南市组播 陕西电信",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV11-戏曲" tvg-name="4-CCTV11-戏曲" group-title="陕西省渭南市组播 陕西电信",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV12-社会与法" tvg-name="4-CCTV12-社会与法" group-title="陕西省渭南市组播 陕西电信",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV13-新闻" tvg-name="4-CCTV13-新闻" group-title="陕西省渭南市组播 陕西电信",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV14-少儿" tvg-name="4-CCTV14-少儿" group-title="陕西省渭南市组播 陕西电信",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="4-CCTV15-音乐" tvg-name="4-CCTV15-音乐" group-title="陕西省渭南市组播 陕西电信",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="4-山西卫视" tvg-name="4-山西卫视" group-title="陕西省渭南市组播 陕西电信",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="4-湖南卫视" tvg-name="4-湖南卫视" group-title="陕西省渭南市组播 陕西电信",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="4-浙江卫视" tvg-name="4-浙江卫视" group-title="陕西省渭南市组播 陕西电信",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="4-广东卫视" tvg-name="4-广东卫视" group-title="陕西省渭南市组播 陕西电信",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="4-深圳卫视" tvg-name="4-深圳卫视" group-title="陕西省渭南市组播 陕西电信",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="4-天津卫视" tvg-name="4-天津卫视" group-title="陕西省渭南市组播 陕西电信",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="4-山东卫视" tvg-name="4-山东卫视" group-title="陕西省渭南市组播 陕西电信",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="4-重庆卫视" tvg-name="4-重庆卫视" group-title="陕西省渭南市组播 陕西电信",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="4-金鹰卡通" tvg-name="4-金鹰卡通" group-title="陕西省渭南市组播 陕西电信",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="4-湖北卫视" tvg-name="4-湖北卫视" group-title="陕西省渭南市组播 陕西电信",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="4-黑龙江卫视" tvg-name="4-黑龙江卫视" group-title="陕西省渭南市组播 陕西电信",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="4-辽宁卫视" tvg-name="4-辽宁卫视" group-title="陕西省渭南市组播 陕西电信",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="4-上海卫视" tvg-name="4-上海卫视" group-title="陕西省渭南市组播 陕西电信",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="4-江苏卫视" tvg-name="4-江苏卫视" group-title="陕西省渭南市组播 陕西电信",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="4-北京卫视" tvg-name="4-北京卫视" group-title="陕西省渭南市组播 陕西电信",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="4-四川卫视" tvg-name="4-四川卫视" group-title="陕西省渭南市组播 陕西电信",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="4-河南卫视" tvg-name="4-河南卫视" group-title="陕西省渭南市组播 陕西电信",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="4-贵州卫视" tvg-name="4-贵州卫视" group-title="陕西省渭南市组播 陕西电信",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="4-东南卫视" tvg-name="4-东南卫视" group-title="陕西省渭南市组播 陕西电信",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="4-广西卫视" tvg-name="4-广西卫视" group-title="陕西省渭南市组播 陕西电信",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="4-江西卫视" tvg-name="4-江西卫视" group-title="陕西省渭南市组播 陕西电信",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="4-吉林卫视" tvg-name="4-吉林卫视" group-title="陕西省渭南市组播 陕西电信",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="4-青海卫视" tvg-name="4-青海卫视" group-title="陕西省渭南市组播 陕西电信",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="4-安徽卫视" tvg-name="4-安徽卫视" group-title="陕西省渭南市组播 陕西电信",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="4-陕西卫视" tvg-name="4-陕西卫视" group-title="陕西省渭南市组播 陕西电信",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV1-综合" tvg-name="5-CCTV1-综合" group-title="重庆市组播 重庆联通",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV2-财经" tvg-name="5-CCTV2-财经" group-title="重庆市组播 重庆联通",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV3-综艺" tvg-name="5-CCTV3-综艺" group-title="重庆市组播 重庆联通",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV4-国际" tvg-name="5-CCTV4-国际" group-title="重庆市组播 重庆联通",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV5-体育" tvg-name="5-CCTV5-体育" group-title="重庆市组播 重庆联通",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV6-电影" tvg-name="5-CCTV6-电影" group-title="重庆市组播 重庆联通",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV7-军农" tvg-name="5-CCTV7-军农" group-title="重庆市组播 重庆联通",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV8-电视剧" tvg-name="5-CCTV8-电视剧" group-title="重庆市组播 重庆联通",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV9-纪录" tvg-name="5-CCTV9-纪录" group-title="重庆市组播 重庆联通",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV10-科教" tvg-name="5-CCTV10-科教" group-title="重庆市组播 重庆联通",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV11-戏曲" tvg-name="5-CCTV11-戏曲" group-title="重庆市组播 重庆联通",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV12-社会与法" tvg-name="5-CCTV12-社会与法" group-title="重庆市组播 重庆联通",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV13-新闻" tvg-name="5-CCTV13-新闻" group-title="重庆市组播 重庆联通",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV14-少儿" tvg-name="5-CCTV14-少儿" group-title="重庆市组播 重庆联通",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="5-CCTV15-音乐" tvg-name="5-CCTV15-音乐" group-title="重庆市组播 重庆联通",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="5-山西卫视" tvg-name="5-山西卫视" group-title="重庆市组播 重庆联通",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="5-湖南卫视" tvg-name="5-湖南卫视" group-title="重庆市组播 重庆联通",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="5-浙江卫视" tvg-name="5-浙江卫视" group-title="重庆市组播 重庆联通",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="5-广东卫视" tvg-name="5-广东卫视" group-title="重庆市组播 重庆联通",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="5-深圳卫视" tvg-name="5-深圳卫视" group-title="重庆市组播 重庆联通",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="5-天津卫视" tvg-name="5-天津卫视" group-title="重庆市组播 重庆联通",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="5-山东卫视" tvg-name="5-山东卫视" group-title="重庆市组播 重庆联通",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="5-重庆卫视" tvg-name="5-重庆卫视" group-title="重庆市组播 重庆联通",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="5-金鹰卡通" tvg-name="5-金鹰卡通" group-title="重庆市组播 重庆联通",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="5-湖北卫视" tvg-name="5-湖北卫视" group-title="重庆市组播 重庆联通",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="5-黑龙江卫视" tvg-name="5-黑龙江卫视" group-title="重庆市组播 重庆联通",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="5-辽宁卫视" tvg-name="5-辽宁卫视" group-title="重庆市组播 重庆联通",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="5-上海卫视" tvg-name="5-上海卫视" group-title="重庆市组播 重庆联通",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="5-江苏卫视" tvg-name="5-江苏卫视" group-title="重庆市组播 重庆联通",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="5-北京卫视" tvg-name="5-北京卫视" group-title="重庆市组播 重庆联通",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="5-四川卫视" tvg-name="5-四川卫视" group-title="重庆市组播 重庆联通",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="5-河南卫视" tvg-name="5-河南卫视" group-title="重庆市组播 重庆联通",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="5-贵州卫视" tvg-name="5-贵州卫视" group-title="重庆市组播 重庆联通",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="5-东南卫视" tvg-name="5-东南卫视" group-title="重庆市组播 重庆联通",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="5-广西卫视" tvg-name="5-广西卫视" group-title="重庆市组播 重庆联通",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="5-江西卫视" tvg-name="5-江西卫视" group-title="重庆市组播 重庆联通",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="5-吉林卫视" tvg-name="5-吉林卫视" group-title="重庆市组播 重庆联通",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="5-青海卫视" tvg-name="5-青海卫视" group-title="重庆市组播 重庆联通",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="5-安徽卫视" tvg-name="5-安徽卫视" group-title="重庆市组播 重庆联通",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="5-陕西卫视" tvg-name="5-陕西卫视" group-title="重庆市组播 重庆联通",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV1-综合" tvg-name="6-CCTV1-综合" group-title="河北省唐山市组播 河北电信",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV2-财经" tvg-name="6-CCTV2-财经" group-title="河北省唐山市组播 河北电信",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV3-综艺" tvg-name="6-CCTV3-综艺" group-title="河北省唐山市组播 河北电信",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV4-国际" tvg-name="6-CCTV4-国际" group-title="河北省唐山市组播 河北电信",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV5-体育" tvg-name="6-CCTV5-体育" group-title="河北省唐山市组播 河北电信",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV6-电影" tvg-name="6-CCTV6-电影" group-title="河北省唐山市组播 河北电信",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV7-军农" tvg-name="6-CCTV7-军农" group-title="河北省唐山市组播 河北电信",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV8-电视剧" tvg-name="6-CCTV8-电视剧" group-title="河北省唐山市组播 河北电信",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV9-纪录" tvg-name="6-CCTV9-纪录" group-title="河北省唐山市组播 河北电信",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV10-科教" tvg-name="6-CCTV10-科教" group-title="河北省唐山市组播 河北电信",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV11-戏曲" tvg-name="6-CCTV11-戏曲" group-title="河北省唐山市组播 河北电信",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV12-社会与法" tvg-name="6-CCTV12-社会与法" group-title="河北省唐山市组播 河北电信",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV13-新闻" tvg-name="6-CCTV13-新闻" group-title="河北省唐山市组播 河北电信",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV14-少儿" tvg-name="6-CCTV14-少儿" group-title="河北省唐山市组播 河北电信",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="6-CCTV15-音乐" tvg-name="6-CCTV15-音乐" group-title="河北省唐山市组播 河北电信",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="6-山西卫视" tvg-name="6-山西卫视" group-title="河北省唐山市组播 河北电信",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="6-湖南卫视" tvg-name="6-湖南卫视" group-title="河北省唐山市组播 河北电信",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="6-浙江卫视" tvg-name="6-浙江卫视" group-title="河北省唐山市组播 河北电信",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="6-广东卫视" tvg-name="6-广东卫视" group-title="河北省唐山市组播 河北电信",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="6-深圳卫视" tvg-name="6-深圳卫视" group-title="河北省唐山市组播 河北电信",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="6-天津卫视" tvg-name="6-天津卫视" group-title="河北省唐山市组播 河北电信",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="6-山东卫视" tvg-name="6-山东卫视" group-title="河北省唐山市组播 河北电信",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="6-重庆卫视" tvg-name="6-重庆卫视" group-title="河北省唐山市组播 河北电信",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="6-金鹰卡通" tvg-name="6-金鹰卡通" group-title="河北省唐山市组播 河北电信",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="6-湖北卫视" tvg-name="6-湖北卫视" group-title="河北省唐山市组播 河北电信",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="6-黑龙江卫视" tvg-name="6-黑龙江卫视" group-title="河北省唐山市组播 河北电信",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="6-辽宁卫视" tvg-name="6-辽宁卫视" group-title="河北省唐山市组播 河北电信",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="6-上海卫视" tvg-name="6-上海卫视" group-title="河北省唐山市组播 河北电信",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="6-江苏卫视" tvg-name="6-江苏卫视" group-title="河北省唐山市组播 河北电信",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="6-北京卫视" tvg-name="6-北京卫视" group-title="河北省唐山市组播 河北电信",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="6-四川卫视" tvg-name="6-四川卫视" group-title="河北省唐山市组播 河北电信",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="6-河南卫视" tvg-name="6-河南卫视" group-title="河北省唐山市组播 河北电信",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="6-贵州卫视" tvg-name="6-贵州卫视" group-title="河北省唐山市组播 河北电信",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="6-东南卫视" tvg-name="6-东南卫视" group-title="河北省唐山市组播 河北电信",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="6-广西卫视" tvg-name="6-广西卫视" group-title="河北省唐山市组播 河北电信",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="6-江西卫视" tvg-name="6-江西卫视" group-title="河北省唐山市组播 河北电信",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="6-吉林卫视" tvg-name="6-吉林卫视" group-title="河北省唐山市组播 河北电信",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="6-青海卫视" tvg-name="6-青海卫视" group-title="河北省唐山市组播 河北电信",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="6-安徽卫视" tvg-name="6-安徽卫视" group-title="河北省唐山市组播 河北电信",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="6-陕西卫视" tvg-name="6-陕西卫视" group-title="河北省唐山市组播 河北电信",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV1-综合" tvg-name="7-CCTV1-综合" group-title="越南组播 Vietnam Viettel",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV2-财经" tvg-name="7-CCTV2-财经" group-title="越南组播 Vietnam Viettel",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV3-综艺" tvg-name="7-CCTV3-综艺" group-title="越南组播 Vietnam Viettel",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV4-国际" tvg-name="7-CCTV4-国际" group-title="越南组播 Vietnam Viettel",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV5-体育" tvg-name="7-CCTV5-体育" group-title="越南组播 Vietnam Viettel",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV6-电影" tvg-name="7-CCTV6-电影" group-title="越南组播 Vietnam Viettel",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV7-军农" tvg-name="7-CCTV7-军农" group-title="越南组播 Vietnam Viettel",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV8-电视剧" tvg-name="7-CCTV8-电视剧" group-title="越南组播 Vietnam Viettel",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV9-纪录" tvg-name="7-CCTV9-纪录" group-title="越南组播 Vietnam Viettel",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV10-科教" tvg-name="7-CCTV10-科教" group-title="越南组播 Vietnam Viettel",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV11-戏曲" tvg-name="7-CCTV11-戏曲" group-title="越南组播 Vietnam Viettel",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV12-社会与法" tvg-name="7-CCTV12-社会与法" group-title="越南组播 Vietnam Viettel",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV13-新闻" tvg-name="7-CCTV13-新闻" group-title="越南组播 Vietnam Viettel",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV14-少儿" tvg-name="7-CCTV14-少儿" group-title="越南组播 Vietnam Viettel",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="7-CCTV15-音乐" tvg-name="7-CCTV15-音乐" group-title="越南组播 Vietnam Viettel",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="7-山西卫视" tvg-name="7-山西卫视" group-title="越南组播 Vietnam Viettel",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="7-湖南卫视" tvg-name="7-湖南卫视" group-title="越南组播 Vietnam Viettel",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="7-浙江卫视" tvg-name="7-浙江卫视" group-title="越南组播 Vietnam Viettel",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="7-广东卫视" tvg-name="7-广东卫视" group-title="越南组播 Vietnam Viettel",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="7-深圳卫视" tvg-name="7-深圳卫视" group-title="越南组播 Vietnam Viettel",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="7-天津卫视" tvg-name="7-天津卫视" group-title="越南组播 Vietnam Viettel",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="7-山东卫视" tvg-name="7-山东卫视" group-title="越南组播 Vietnam Viettel",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="7-重庆卫视" tvg-name="7-重庆卫视" group-title="越南组播 Vietnam Viettel",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="7-金鹰卡通" tvg-name="7-金鹰卡通" group-title="越南组播 Vietnam Viettel",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="7-湖北卫视" tvg-name="7-湖北卫视" group-title="越南组播 Vietnam Viettel",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="7-黑龙江卫视" tvg-name="7-黑龙江卫视" group-title="越南组播 Vietnam Viettel",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="7-辽宁卫视" tvg-name="7-辽宁卫视" group-title="越南组播 Vietnam Viettel",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="7-上海卫视" tvg-name="7-上海卫视" group-title="越南组播 Vietnam Viettel",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="7-江苏卫视" tvg-name="7-江苏卫视" group-title="越南组播 Vietnam Viettel",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="7-北京卫视" tvg-name="7-北京卫视" group-title="越南组播 Vietnam Viettel",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="7-四川卫视" tvg-name="7-四川卫视" group-title="越南组播 Vietnam Viettel",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="7-河南卫视" tvg-name="7-河南卫视" group-title="越南组播 Vietnam Viettel",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="7-贵州卫视" tvg-name="7-贵州卫视" group-title="越南组播 Vietnam Viettel",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="7-东南卫视" tvg-name="7-东南卫视" group-title="越南组播 Vietnam Viettel",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="7-广西卫视" tvg-name="7-广西卫视" group-title="越南组播 Vietnam Viettel",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="7-江西卫视" tvg-name="7-江西卫视" group-title="越南组播 Vietnam Viettel",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="7-吉林卫视" tvg-name="7-吉林卫视" group-title="越南组播 Vietnam Viettel",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="7-青海卫视" tvg-name="7-青海卫视" group-title="越南组播 Vietnam Viettel",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="7-安徽卫视" tvg-name="7-安徽卫视" group-title="越南组播 Vietnam Viettel",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="7-陕西卫视" tvg-name="7-陕西卫视" group-title="越南组播 Vietnam Viettel",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV1-综合" tvg-name="8-CCTV1-综合" group-title="广东省揭阳市普宁市酒店  联通",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV2-财经" tvg-name="8-CCTV2-财经" group-title="广东省揭阳市普宁市酒店  联通",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV3-综艺" tvg-name="8-CCTV3-综艺" group-title="广东省揭阳市普宁市酒店  联通",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV4-国际" tvg-name="8-CCTV4-国际" group-title="广东省揭阳市普宁市酒店  联通",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV5-体育" tvg-name="8-CCTV5-体育" group-title="广东省揭阳市普宁市酒店  联通",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV6-电影" tvg-name="8-CCTV6-电影" group-title="广东省揭阳市普宁市酒店  联通",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV7-军农" tvg-name="8-CCTV7-军农" group-title="广东省揭阳市普宁市酒店  联通",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV8-电视剧" tvg-name="8-CCTV8-电视剧" group-title="广东省揭阳市普宁市酒店  联通",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV9-纪录" tvg-name="8-CCTV9-纪录" group-title="广东省揭阳市普宁市酒店  联通",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV10-科教" tvg-name="8-CCTV10-科教" group-title="广东省揭阳市普宁市酒店  联通",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV11-戏曲" tvg-name="8-CCTV11-戏曲" group-title="广东省揭阳市普宁市酒店  联通",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV12-社会与法" tvg-name="8-CCTV12-社会与法" group-title="广东省揭阳市普宁市酒店  联通",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV13-新闻" tvg-name="8-CCTV13-新闻" group-title="广东省揭阳市普宁市酒店  联通",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV14-少儿" tvg-name="8-CCTV14-少儿" group-title="广东省揭阳市普宁市酒店  联通",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="8-CCTV15-音乐" tvg-name="8-CCTV15-音乐" group-title="广东省揭阳市普宁市酒店  联通",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="8-山西卫视" tvg-name="8-山西卫视" group-title="广东省揭阳市普宁市酒店  联通",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="8-湖南卫视" tvg-name="8-湖南卫视" group-title="广东省揭阳市普宁市酒店  联通",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="8-浙江卫视" tvg-name="8-浙江卫视" group-title="广东省揭阳市普宁市酒店  联通",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="8-广东卫视" tvg-name="8-广东卫视" group-title="广东省揭阳市普宁市酒店  联通",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="8-深圳卫视" tvg-name="8-深圳卫视" group-title="广东省揭阳市普宁市酒店  联通",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="8-天津卫视" tvg-name="8-天津卫视" group-title="广东省揭阳市普宁市酒店  联通",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="8-山东卫视" tvg-name="8-山东卫视" group-title="广东省揭阳市普宁市酒店  联通",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="8-重庆卫视" tvg-name="8-重庆卫视" group-title="广东省揭阳市普宁市酒店  联通",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="8-金鹰卡通" tvg-name="8-金鹰卡通" group-title="广东省揭阳市普宁市酒店  联通",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="8-湖北卫视" tvg-name="8-湖北卫视" group-title="广东省揭阳市普宁市酒店  联通",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="8-黑龙江卫视" tvg-name="8-黑龙江卫视" group-title="广东省揭阳市普宁市酒店  联通",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="8-辽宁卫视" tvg-name="8-辽宁卫视" group-title="广东省揭阳市普宁市酒店  联通",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="8-上海卫视" tvg-name="8-上海卫视" group-title="广东省揭阳市普宁市酒店  联通",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="8-江苏卫视" tvg-name="8-江苏卫视" group-title="广东省揭阳市普宁市酒店  联通",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="8-北京卫视" tvg-name="8-北京卫视" group-title="广东省揭阳市普宁市酒店  联通",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="8-四川卫视" tvg-name="8-四川卫视" group-title="广东省揭阳市普宁市酒店  联通",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="8-河南卫视" tvg-name="8-河南卫视" group-title="广东省揭阳市普宁市酒店  联通",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="8-贵州卫视" tvg-name="8-贵州卫视" group-title="广东省揭阳市普宁市酒店  联通",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="8-东南卫视" tvg-name="8-东南卫视" group-title="广东省揭阳市普宁市酒店  联通",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="8-广西卫视" tvg-name="8-广西卫视" group-title="广东省揭阳市普宁市酒店  联通",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="8-江西卫视" tvg-name="8-江西卫视" group-title="广东省揭阳市普宁市酒店  联通",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="8-吉林卫视" tvg-name="8-吉林卫视" group-title="广东省揭阳市普宁市酒店  联通",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="8-青海卫视" tvg-name="8-青海卫视" group-title="广东省揭阳市普宁市酒店  联通",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="8-安徽卫视" tvg-name="8-安徽卫视" group-title="广东省揭阳市普宁市酒店  联通",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="8-陕西卫视" tvg-name="8-陕西卫视" group-title="广东省揭阳市普宁市酒店  联通",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV1-综合" tvg-name="9-CCTV1-综合" group-title="云南省楚雄州酒店  电信",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV2-财经" tvg-name="9-CCTV2-财经" group-title="云南省楚雄州酒店  电信",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV3-综艺" tvg-name="9-CCTV3-综艺" group-title="云南省楚雄州酒店  电信",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV4-国际" tvg-name="9-CCTV4-国际" group-title="云南省楚雄州酒店  电信",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV5-体育" tvg-name="9-CCTV5-体育" group-title="云南省楚雄州酒店  电信",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV6-电影" tvg-name="9-CCTV6-电影" group-title="云南省楚雄州酒店  电信",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV7-军农" tvg-name="9-CCTV7-军农" group-title="云南省楚雄州酒店  电信",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV8-电视剧" tvg-name="9-CCTV8-电视剧" group-title="云南省楚雄州酒店  电信",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV9-纪录" tvg-name="9-CCTV9-纪录" group-title="云南省楚雄州酒店  电信",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV10-科教" tvg-name="9-CCTV10-科教" group-title="云南省楚雄州酒店  电信",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV11-戏曲" tvg-name="9-CCTV11-戏曲" group-title="云南省楚雄州酒店  电信",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV12-社会与法" tvg-name="9-CCTV12-社会与法" group-title="云南省楚雄州酒店  电信",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV13-新闻" tvg-name="9-CCTV13-新闻" group-title="云南省楚雄州酒店  电信",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV14-少儿" tvg-name="9-CCTV14-少儿" group-title="云南省楚雄州酒店  电信",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="9-CCTV15-音乐" tvg-name="9-CCTV15-音乐" group-title="云南省楚雄州酒店  电信",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="9-山西卫视" tvg-name="9-山西卫视" group-title="云南省楚雄州酒店  电信",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="9-湖南卫视" tvg-name="9-湖南卫视" group-title="云南省楚雄州酒店  电信",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="9-浙江卫视" tvg-name="9-浙江卫视" group-title="云南省楚雄州酒店  电信",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="9-广东卫视" tvg-name="9-广东卫视" group-title="云南省楚雄州酒店  电信",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="9-深圳卫视" tvg-name="9-深圳卫视" group-title="云南省楚雄州酒店  电信",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="9-天津卫视" tvg-name="9-天津卫视" group-title="云南省楚雄州酒店  电信",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="9-山东卫视" tvg-name="9-山东卫视" group-title="云南省楚雄州酒店  电信",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="9-重庆卫视" tvg-name="9-重庆卫视" group-title="云南省楚雄州酒店  电信",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="9-金鹰卡通" tvg-name="9-金鹰卡通" group-title="云南省楚雄州酒店  电信",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="9-湖北卫视" tvg-name="9-湖北卫视" group-title="云南省楚雄州酒店  电信",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="9-黑龙江卫视" tvg-name="9-黑龙江卫视" group-title="云南省楚雄州酒店  电信",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="9-辽宁卫视" tvg-name="9-辽宁卫视" group-title="云南省楚雄州酒店  电信",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="9-上海卫视" tvg-name="9-上海卫视" group-title="云南省楚雄州酒店  电信",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="9-江苏卫视" tvg-name="9-江苏卫视" group-title="云南省楚雄州酒店  电信",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="9-北京卫视" tvg-name="9-北京卫视" group-title="云南省楚雄州酒店  电信",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="9-四川卫视" tvg-name="9-四川卫视" group-title="云南省楚雄州酒店  电信",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="9-河南卫视" tvg-name="9-河南卫视" group-title="云南省楚雄州酒店  电信",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="9-贵州卫视" tvg-name="9-贵州卫视" group-title="云南省楚雄州酒店  电信",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="9-东南卫视" tvg-name="9-东南卫视" group-title="云南省楚雄州酒店  电信",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="9-广西卫视" tvg-name="9-广西卫视" group-title="云南省楚雄州酒店  电信",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="9-江西卫视" tvg-name="9-江西卫视" group-title="云南省楚雄州酒店  电信",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="9-吉林卫视" tvg-name="9-吉林卫视" group-title="云南省楚雄州酒店  电信",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="9-青海卫视" tvg-name="9-青海卫视" group-title="云南省楚雄州酒店  电信",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="9-安徽卫视" tvg-name="9-安徽卫视" group-title="云南省楚雄州酒店  电信",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="9-陕西卫视" tvg-name="9-陕西卫视" group-title="云南省楚雄州酒店  电信",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV1-综合" tvg-name="10-CCTV1-综合" group-title="河南省平顶山市酒店  联通",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV2-财经" tvg-name="10-CCTV2-财经" group-title="河南省平顶山市酒店  联通",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV3-综艺" tvg-name="10-CCTV3-综艺" group-title="河南省平顶山市酒店  联通",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV4-国际" tvg-name="10-CCTV4-国际" group-title="河南省平顶山市酒店  联通",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV5-体育" tvg-name="10-CCTV5-体育" group-title="河南省平顶山市酒店  联通",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV6-电影" tvg-name="10-CCTV6-电影" group-title="河南省平顶山市酒店  联通",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV7-军农" tvg-name="10-CCTV7-军农" group-title="河南省平顶山市酒店  联通",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV8-电视剧" tvg-name="10-CCTV8-电视剧" group-title="河南省平顶山市酒店  联通",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV9-纪录" tvg-name="10-CCTV9-纪录" group-title="河南省平顶山市酒店  联通",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV10-科教" tvg-name="10-CCTV10-科教" group-title="河南省平顶山市酒店  联通",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV11-戏曲" tvg-name="10-CCTV11-戏曲" group-title="河南省平顶山市酒店  联通",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV12-社会与法" tvg-name="10-CCTV12-社会与法" group-title="河南省平顶山市酒店  联通",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV13-新闻" tvg-name="10-CCTV13-新闻" group-title="河南省平顶山市酒店  联通",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV14-少儿" tvg-name="10-CCTV14-少儿" group-title="河南省平顶山市酒店  联通",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="10-CCTV15-音乐" tvg-name="10-CCTV15-音乐" group-title="河南省平顶山市酒店  联通",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="10-山西卫视" tvg-name="10-山西卫视" group-title="河南省平顶山市酒店  联通",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="10-湖南卫视" tvg-name="10-湖南卫视" group-title="河南省平顶山市酒店  联通",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="10-浙江卫视" tvg-name="10-浙江卫视" group-title="河南省平顶山市酒店  联通",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="10-广东卫视" tvg-name="10-广东卫视" group-title="河南省平顶山市酒店  联通",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="10-深圳卫视" tvg-name="10-深圳卫视" group-title="河南省平顶山市酒店  联通",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="10-天津卫视" tvg-name="10-天津卫视" group-title="河南省平顶山市酒店  联通",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="10-山东卫视" tvg-name="10-山东卫视" group-title="河南省平顶山市酒店  联通",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="10-重庆卫视" tvg-name="10-重庆卫视" group-title="河南省平顶山市酒店  联通",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="10-金鹰卡通" tvg-name="10-金鹰卡通" group-title="河南省平顶山市酒店  联通",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="10-湖北卫视" tvg-name="10-湖北卫视" group-title="河南省平顶山市酒店  联通",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="10-黑龙江卫视" tvg-name="10-黑龙江卫视" group-title="河南省平顶山市酒店  联通",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="10-辽宁卫视" tvg-name="10-辽宁卫视" group-title="河南省平顶山市酒店  联通",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="10-上海卫视" tvg-name="10-上海卫视" group-title="河南省平顶山市酒店  联通",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="10-江苏卫视" tvg-name="10-江苏卫视" group-title="河南省平顶山市酒店  联通",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="10-北京卫视" tvg-name="10-北京卫视" group-title="河南省平顶山市酒店  联通",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="10-四川卫视" tvg-name="10-四川卫视" group-title="河南省平顶山市酒店  联通",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="10-河南卫视" tvg-name="10-河南卫视" group-title="河南省平顶山市酒店  联通",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="10-贵州卫视" tvg-name="10-贵州卫视" group-title="河南省平顶山市酒店  联通",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="10-东南卫视" tvg-name="10-东南卫视" group-title="河南省平顶山市酒店  联通",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="10-广西卫视" tvg-name="10-广西卫视" group-title="河南省平顶山市酒店  联通",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="10-江西卫视" tvg-name="10-江西卫视" group-title="河南省平顶山市酒店  联通",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="10-吉林卫视" tvg-name="10-吉林卫视" group-title="河南省平顶山市酒店  联通",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="10-青海卫视" tvg-name="10-青海卫视" group-title="河南省平顶山市酒店  联通",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="10-安徽卫视" tvg-name="10-安徽卫视" group-title="河南省平顶山市酒店  联通",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="10-陕西卫视" tvg-name="10-陕西卫视" group-title="河南省平顶山市酒店  联通",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV1-综合" tvg-name="11-CCTV1-综合" group-title="内蒙古赤峰市酒店  联通",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV2-财经" tvg-name="11-CCTV2-财经" group-title="内蒙古赤峰市酒店  联通",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV3-综艺" tvg-name="11-CCTV3-综艺" group-title="内蒙古赤峰市酒店  联通",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV4-国际" tvg-name="11-CCTV4-国际" group-title="内蒙古赤峰市酒店  联通",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV5-体育" tvg-name="11-CCTV5-体育" group-title="内蒙古赤峰市酒店  联通",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV6-电影" tvg-name="11-CCTV6-电影" group-title="内蒙古赤峰市酒店  联通",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV7-军农" tvg-name="11-CCTV7-军农" group-title="内蒙古赤峰市酒店  联通",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV8-电视剧" tvg-name="11-CCTV8-电视剧" group-title="内蒙古赤峰市酒店  联通",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV9-纪录" tvg-name="11-CCTV9-纪录" group-title="内蒙古赤峰市酒店  联通",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV10-科教" tvg-name="11-CCTV10-科教" group-title="内蒙古赤峰市酒店  联通",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV11-戏曲" tvg-name="11-CCTV11-戏曲" group-title="内蒙古赤峰市酒店  联通",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV12-社会与法" tvg-name="11-CCTV12-社会与法" group-title="内蒙古赤峰市酒店  联通",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV13-新闻" tvg-name="11-CCTV13-新闻" group-title="内蒙古赤峰市酒店  联通",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV14-少儿" tvg-name="11-CCTV14-少儿" group-title="内蒙古赤峰市酒店  联通",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="11-CCTV15-音乐" tvg-name="11-CCTV15-音乐" group-title="内蒙古赤峰市酒店  联通",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="11-山西卫视" tvg-name="11-山西卫视" group-title="内蒙古赤峰市酒店  联通",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="11-湖南卫视" tvg-name="11-湖南卫视" group-title="内蒙古赤峰市酒店  联通",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="11-浙江卫视" tvg-name="11-浙江卫视" group-title="内蒙古赤峰市酒店  联通",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="11-广东卫视" tvg-name="11-广东卫视" group-title="内蒙古赤峰市酒店  联通",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="11-深圳卫视" tvg-name="11-深圳卫视" group-title="内蒙古赤峰市酒店  联通",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="11-天津卫视" tvg-name="11-天津卫视" group-title="内蒙古赤峰市酒店  联通",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="11-山东卫视" tvg-name="11-山东卫视" group-title="内蒙古赤峰市酒店  联通",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="11-重庆卫视" tvg-name="11-重庆卫视" group-title="内蒙古赤峰市酒店  联通",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="11-金鹰卡通" tvg-name="11-金鹰卡通" group-title="内蒙古赤峰市酒店  联通",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="11-湖北卫视" tvg-name="11-湖北卫视" group-title="内蒙古赤峰市酒店  联通",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="11-黑龙江卫视" tvg-name="11-黑龙江卫视" group-title="内蒙古赤峰市酒店  联通",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="11-辽宁卫视" tvg-name="11-辽宁卫视" group-title="内蒙古赤峰市酒店  联通",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="11-上海卫视" tvg-name="11-上海卫视" group-title="内蒙古赤峰市酒店  联通",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="11-江苏卫视" tvg-name="11-江苏卫视" group-title="内蒙古赤峰市酒店  联通",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="11-北京卫视" tvg-name="11-北京卫视" group-title="内蒙古赤峰市酒店  联通",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="11-四川卫视" tvg-name="11-四川卫视" group-title="内蒙古赤峰市酒店  联通",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="11-河南卫视" tvg-name="11-河南卫视" group-title="内蒙古赤峰市酒店  联通",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="11-贵州卫视" tvg-name="11-贵州卫视" group-title="内蒙古赤峰市酒店  联通",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="11-东南卫视" tvg-name="11-东南卫视" group-title="内蒙古赤峰市酒店  联通",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="11-广西卫视" tvg-name="11-广西卫视" group-title="内蒙古赤峰市酒店  联通",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="11-江西卫视" tvg-name="11-江西卫视" group-title="内蒙古赤峰市酒店  联通",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="11-吉林卫视" tvg-name="11-吉林卫视" group-title="内蒙古赤峰市酒店  联通",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="11-青海卫视" tvg-name="11-青海卫视" group-title="内蒙古赤峰市酒店  联通",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="11-安徽卫视" tvg-name="11-安徽卫视" group-title="内蒙古赤峰市酒店  联通",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="11-陕西卫视" tvg-name="11-陕西卫视" group-title="内蒙古赤峰市酒店  联通",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV1-综合" tvg-name="12-CCTV1-综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV2-财经" tvg-name="12-CCTV2-财经" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV3-综艺" tvg-name="12-CCTV3-综艺" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV4-国际" tvg-name="12-CCTV4-国际" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV5-体育" tvg-name="12-CCTV5-体育" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV6-电影" tvg-name="12-CCTV6-电影" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV7-军农" tvg-name="12-CCTV7-军农" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV8-电视剧" tvg-name="12-CCTV8-电视剧" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV9-纪录" tvg-name="12-CCTV9-纪录" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV10-科教" tvg-name="12-CCTV10-科教" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV11-戏曲" tvg-name="12-CCTV11-戏曲" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV12-社会与法" tvg-name="12-CCTV12-社会与法" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV13-新闻" tvg-name="12-CCTV13-新闻" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV14-少儿" tvg-name="12-CCTV14-少儿" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="12-CCTV15-音乐" tvg-name="12-CCTV15-音乐" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="12-山西卫视" tvg-name="12-山西卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="12-湖南卫视" tvg-name="12-湖南卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="12-浙江卫视" tvg-name="12-浙江卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="12-广东卫视" tvg-name="12-广东卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="12-深圳卫视" tvg-name="12-深圳卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="12-天津卫视" tvg-name="12-天津卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="12-山东卫视" tvg-name="12-山东卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="12-重庆卫视" tvg-name="12-重庆卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="12-金鹰卡通" tvg-name="12-金鹰卡通" group-title="黑龙江省哈尔滨市双城区酒店  联通",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="12-湖北卫视" tvg-name="12-湖北卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="12-黑龙江卫视" tvg-name="12-黑龙江卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="12-辽宁卫视" tvg-name="12-辽宁卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="12-上海卫视" tvg-name="12-上海卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="12-江苏卫视" tvg-name="12-江苏卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="12-北京卫视" tvg-name="12-北京卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="12-四川卫视" tvg-name="12-四川卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="12-河南卫视" tvg-name="12-河南卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="12-贵州卫视" tvg-name="12-贵州卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="12-东南卫视" tvg-name="12-东南卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="12-广西卫视" tvg-name="12-广西卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="12-江西卫视" tvg-name="12-江西卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="12-吉林卫视" tvg-name="12-吉林卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="12-青海卫视" tvg-name="12-青海卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="12-安徽卫视" tvg-name="12-安徽卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="12-陕西卫视" tvg-name="12-陕西卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV1-综合" tvg-name="13-CCTV1-综合" group-title="山西省太原市酒店  联通",CCTV1-综合
-http://118.81.98.130:9999/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV2-财经" tvg-name="13-CCTV2-财经" group-title="山西省太原市酒店  联通",CCTV2-财经
-http://118.81.98.130:9999/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV3-综艺" tvg-name="13-CCTV3-综艺" group-title="山西省太原市酒店  联通",CCTV3-综艺
-http://118.81.98.130:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV4-国际" tvg-name="13-CCTV4-国际" group-title="山西省太原市酒店  联通",CCTV4-国际
-http://118.81.98.130:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV5-体育" tvg-name="13-CCTV5-体育" group-title="山西省太原市酒店  联通",CCTV5-体育
-http://118.81.98.130:9999/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV6-电影" tvg-name="13-CCTV6-电影" group-title="山西省太原市酒店  联通",CCTV6-电影
-http://118.81.98.130:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV7-军农" tvg-name="13-CCTV7-军农" group-title="山西省太原市酒店  联通",CCTV7-军农
-http://118.81.98.130:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV8-电视剧" tvg-name="13-CCTV8-电视剧" group-title="山西省太原市酒店  联通",CCTV8-电视剧
-http://118.81.98.130:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV9-纪录" tvg-name="13-CCTV9-纪录" group-title="山西省太原市酒店  联通",CCTV9-纪录
-http://118.81.98.130:9999/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV10-科教" tvg-name="13-CCTV10-科教" group-title="山西省太原市酒店  联通",CCTV10-科教
-http://118.81.98.130:9999/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV11-戏曲" tvg-name="13-CCTV11-戏曲" group-title="山西省太原市酒店  联通",CCTV11-戏曲
-http://118.81.98.130:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV12-社会与法" tvg-name="13-CCTV12-社会与法" group-title="山西省太原市酒店  联通",CCTV12-社会与法
-http://118.81.98.130:9999/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV13-新闻" tvg-name="13-CCTV13-新闻" group-title="山西省太原市酒店  联通",CCTV13-新闻
-http://118.81.98.130:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV14-少儿" tvg-name="13-CCTV14-少儿" group-title="山西省太原市酒店  联通",CCTV14-少儿
-http://118.81.98.130:9999/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="13-CCTV15-音乐" tvg-name="13-CCTV15-音乐" group-title="山西省太原市酒店  联通",CCTV15-音乐
-http://118.81.98.130:9999/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="13-山西卫视" tvg-name="13-山西卫视" group-title="山西省太原市酒店  联通",山西卫视
-http://118.81.98.130:9999/tsfile/live/0118_1.m3u8
-#EXTINF:-1,tvg-id="13-湖南卫视" tvg-name="13-湖南卫视" group-title="山西省太原市酒店  联通",湖南卫视
-http://118.81.98.130:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1,tvg-id="13-浙江卫视" tvg-name="13-浙江卫视" group-title="山西省太原市酒店  联通",浙江卫视
-http://118.81.98.130:9999/tsfile/live/0124_1.m3u8
-#EXTINF:-1,tvg-id="13-广东卫视" tvg-name="13-广东卫视" group-title="山西省太原市酒店  联通",广东卫视
-http://118.81.98.130:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1,tvg-id="13-深圳卫视" tvg-name="13-深圳卫视" group-title="山西省太原市酒店  联通",深圳卫视
-http://118.81.98.130:9999/tsfile/live/0126_1.m3u8
-#EXTINF:-1,tvg-id="13-天津卫视" tvg-name="13-天津卫视" group-title="山西省太原市酒店  联通",天津卫视
-http://118.81.98.130:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1,tvg-id="13-山东卫视" tvg-name="13-山东卫视" group-title="山西省太原市酒店  联通",山东卫视
-http://118.81.98.130:9999/tsfile/live/0131_1.m3u8
-#EXTINF:-1,tvg-id="13-重庆卫视" tvg-name="13-重庆卫视" group-title="山西省太原市酒店  联通",重庆卫视
-http://118.81.98.130:9999/tsfile/live/0142_1.m3u8
-#EXTINF:-1,tvg-id="13-金鹰卡通" tvg-name="13-金鹰卡通" group-title="山西省太原市酒店  联通",金鹰卡通
-http://118.81.98.130:9999/tsfile/live/1000_1.m3u8
-#EXTINF:-1,tvg-id="13-湖北卫视" tvg-name="13-湖北卫视" group-title="山西省太原市酒店  联通",湖北卫视
-http://118.81.98.130:9999/tsfile/live/0132_1.m3u8
-#EXTINF:-1,tvg-id="13-黑龙江卫视" tvg-name="13-黑龙江卫视" group-title="山西省太原市酒店  联通",黑龙江卫视
-http://118.81.98.130:9999/tsfile/live/0143_1.m3u8
-#EXTINF:-1,tvg-id="13-辽宁卫视" tvg-name="13-辽宁卫视" group-title="山西省太原市酒店  联通",辽宁卫视
-http://118.81.98.130:9999/tsfile/live/0121_1.m3u8
-#EXTINF:-1,tvg-id="13-上海卫视" tvg-name="13-上海卫视" group-title="山西省太原市酒店  联通",上海卫视
-http://118.81.98.130:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1,tvg-id="13-江苏卫视" tvg-name="13-江苏卫视" group-title="山西省太原市酒店  联通",江苏卫视
-http://118.81.98.130:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1,tvg-id="13-北京卫视" tvg-name="13-北京卫视" group-title="山西省太原市酒店  联通",北京卫视
-http://118.81.98.130:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="13-四川卫视" tvg-name="13-四川卫视" group-title="山西省太原市酒店  联通",四川卫视
-http://118.81.98.130:9999/tsfile/live/0123_1.m3u8
-#EXTINF:-1,tvg-id="13-河南卫视" tvg-name="13-河南卫视" group-title="山西省太原市酒店  联通",河南卫视
-http://118.81.98.130:9999/tsfile/live/0139_1.m3u8
-#EXTINF:-1,tvg-id="13-贵州卫视" tvg-name="13-贵州卫视" group-title="山西省太原市酒店  联通",贵州卫视
-http://118.81.98.130:9999/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="13-东南卫视" tvg-name="13-东南卫视" group-title="山西省太原市酒店  联通",东南卫视
-http://118.81.98.130:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1,tvg-id="13-广西卫视" tvg-name="13-广西卫视" group-title="山西省太原市酒店  联通",广西卫视
-http://118.81.98.130:9999/tsfile/live/0113_1.m3u8
-#EXTINF:-1,tvg-id="13-江西卫视" tvg-name="13-江西卫视" group-title="山西省太原市酒店  联通",江西卫视
-http://118.81.98.130:9999/tsfile/live/0138_1.m3u8
-#EXTINF:-1,tvg-id="13-吉林卫视" tvg-name="13-吉林卫视" group-title="山西省太原市酒店  联通",吉林卫视
-http://118.81.98.130:9999/tsfile/live/0116_1.m3u8
-#EXTINF:-1,tvg-id="13-青海卫视" tvg-name="13-青海卫视" group-title="山西省太原市酒店  联通",青海卫视
-http://118.81.98.130:9999/tsfile/live/0140_1.m3u8
-#EXTINF:-1,tvg-id="13-安徽卫视" tvg-name="13-安徽卫视" group-title="山西省太原市酒店  联通",安徽卫视
-http://118.81.98.130:9999/tsfile/live/0130_1.m3u8
-#EXTINF:-1,tvg-id="13-陕西卫视" tvg-name="13-陕西卫视" group-title="山西省太原市酒店  联通",陕西卫视
-http://118.81.98.130:9999/tsfile/live/0136_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-1 HD" tvg-name="1-CCTV-1 HD" group-title="重庆市组播 重庆联通",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-2 HD" tvg-name="1-CCTV-2 HD" group-title="重庆市组播 重庆联通",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-3 HD" tvg-name="1-CCTV-3 HD" group-title="重庆市组播 重庆联通",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-4 HD" tvg-name="1-CCTV-4 HD" group-title="重庆市组播 重庆联通",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-5 HD" tvg-name="1-CCTV-5 HD" group-title="重庆市组播 重庆联通",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-6 HD" tvg-name="1-CCTV-6 HD" group-title="重庆市组播 重庆联通",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-7 HD" tvg-name="1-CCTV-7 HD" group-title="重庆市组播 重庆联通",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-8 HD" tvg-name="1-CCTV-8 HD" group-title="重庆市组播 重庆联通",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-9 HD" tvg-name="1-CCTV-9 HD" group-title="重庆市组播 重庆联通",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-10 HD" tvg-name="1-CCTV-10 HD" group-title="重庆市组播 重庆联通",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-11 HD" tvg-name="1-CCTV-11 HD" group-title="重庆市组播 重庆联通",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-12 HD" tvg-name="1-CCTV-12 HD" group-title="重庆市组播 重庆联通",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-13 HD" tvg-name="1-CCTV-13 HD" group-title="重庆市组播 重庆联通",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-14 HD" tvg-name="1-CCTV-14 HD" group-title="重庆市组播 重庆联通",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-15 HD" tvg-name="1-CCTV-15 HD" group-title="重庆市组播 重庆联通",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-17 HD" tvg-name="1-CCTV-17 HD" group-title="重庆市组播 重庆联通",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-5＋ HD" tvg-name="1-CCTV-5＋ HD" group-title="重庆市组播 重庆联通",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="1-CCTV-16 HD" tvg-name="1-CCTV-16 HD" group-title="重庆市组播 重庆联通",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="1-三沙卫视" tvg-name="1-三沙卫视" group-title="重庆市组播 重庆联通",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="1-云南卫视" tvg-name="1-云南卫视" group-title="重庆市组播 重庆联通",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="1-贵州卫视" tvg-name="1-贵州卫视" group-title="重庆市组播 重庆联通",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="1-辽宁卫视" tvg-name="1-辽宁卫视" group-title="重庆市组播 重庆联通",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="1-重庆卫视" tvg-name="1-重庆卫视" group-title="重庆市组播 重庆联通",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="1-青海卫视" tvg-name="1-青海卫视" group-title="重庆市组播 重庆联通",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="1-黑龙江卫视" tvg-name="1-黑龙江卫视" group-title="重庆市组播 重庆联通",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="1-北京卫视" tvg-name="1-北京卫视" group-title="重庆市组播 重庆联通",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="1-吉林卫视" tvg-name="1-吉林卫视" group-title="重庆市组播 重庆联通",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="1-天津卫视" tvg-name="1-天津卫视" group-title="重庆市组播 重庆联通",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="1-四川卫视" tvg-name="1-四川卫视" group-title="重庆市组播 重庆联通",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="1-安徽卫视" tvg-name="1-安徽卫视" group-title="重庆市组播 重庆联通",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="1-山东卫视" tvg-name="1-山东卫视" group-title="重庆市组播 重庆联通",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="1-江苏卫视" tvg-name="1-江苏卫视" group-title="重庆市组播 重庆联通",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="1-江西卫视" tvg-name="1-江西卫视" group-title="重庆市组播 重庆联通",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="1-河北卫视" tvg-name="1-河北卫视" group-title="重庆市组播 重庆联通",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="1-河南卫视" tvg-name="1-河南卫视" group-title="重庆市组播 重庆联通",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="1-东方卫视" tvg-name="1-东方卫视" group-title="重庆市组播 重庆联通",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="1-广西卫视" tvg-name="1-广西卫视" group-title="重庆市组播 重庆联通",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="1-广东卫视" tvg-name="1-广东卫视" group-title="重庆市组播 重庆联通",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="1-浙江卫视" tvg-name="1-浙江卫视" group-title="重庆市组播 重庆联通",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="1-海南卫视" tvg-name="1-海南卫视" group-title="重庆市组播 重庆联通",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="1-深圳卫视" tvg-name="1-深圳卫视" group-title="重庆市组播 重庆联通",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="1-湖北卫视" tvg-name="1-湖北卫视" group-title="重庆市组播 重庆联通",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="1-湖南卫视" tvg-name="1-湖南卫视" group-title="重庆市组播 重庆联通",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="1-甘肃卫视" tvg-name="1-甘肃卫视" group-title="重庆市组播 重庆联通",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="1-金鹰纪实" tvg-name="1-金鹰纪实" group-title="重庆市组播 重庆联通",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="1-凤凰资讯" tvg-name="1-凤凰资讯" group-title="重庆市组播 重庆联通",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="1-凤凰中文" tvg-name="1-凤凰中文" group-title="重庆市组播 重庆联通",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="1-东南卫视" tvg-name="1-东南卫视" group-title="重庆市组播 重庆联通",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="1-厦门卫视" tvg-name="1-厦门卫视" group-title="重庆市组播 重庆联通",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="1-海峡卫视" tvg-name="1-海峡卫视" group-title="重庆市组播 重庆联通",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="1-福建综合" tvg-name="1-福建综合" group-title="重庆市组播 重庆联通",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="1-福建公共" tvg-name="1-福建公共" group-title="重庆市组播 重庆联通",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="1-福建新闻" tvg-name="1-福建新闻" group-title="重庆市组播 重庆联通",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="1-福建电视剧" tvg-name="1-福建电视剧" group-title="重庆市组播 重庆联通",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="1-福建旅游" tvg-name="1-福建旅游" group-title="重庆市组播 重庆联通",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="1-福建经济" tvg-name="1-福建经济" group-title="重庆市组播 重庆联通",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="1-福建少儿" tvg-name="1-福建少儿" group-title="重庆市组播 重庆联通",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="1-福建文体" tvg-name="1-福建文体" group-title="重庆市组播 重庆联通",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="1-福建教育" tvg-name="1-福建教育" group-title="重庆市组播 重庆联通",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="1-厦门-1" tvg-name="1-厦门-1" group-title="重庆市组播 重庆联通",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="1-厦门-2" tvg-name="1-厦门-2" group-title="重庆市组播 重庆联通",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="1-南平综合" tvg-name="1-南平综合" group-title="重庆市组播 重庆联通",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="1-宁德综合" tvg-name="1-宁德综合" group-title="重庆市组播 重庆联通",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="1-龙岩综合" tvg-name="1-龙岩综合" group-title="重庆市组播 重庆联通",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="1-三明综合" tvg-name="1-三明综合" group-title="重庆市组播 重庆联通",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="1-平潭综合" tvg-name="1-平潭综合" group-title="重庆市组播 重庆联通",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="1-泉州综合" tvg-name="1-泉州综合" group-title="重庆市组播 重庆联通",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="1-福州综合" tvg-name="1-福州综合" group-title="重庆市组播 重庆联通",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="1-莆田综合" tvg-name="1-莆田综合" group-title="重庆市组播 重庆联通",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="1-漳州综合" tvg-name="1-漳州综合" group-title="重庆市组播 重庆联通",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-1 HD" tvg-name="2-CCTV-1 HD" group-title="山西省长治市组播 山西联通",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-2 HD" tvg-name="2-CCTV-2 HD" group-title="山西省长治市组播 山西联通",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-3 HD" tvg-name="2-CCTV-3 HD" group-title="山西省长治市组播 山西联通",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-4 HD" tvg-name="2-CCTV-4 HD" group-title="山西省长治市组播 山西联通",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-5 HD" tvg-name="2-CCTV-5 HD" group-title="山西省长治市组播 山西联通",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-6 HD" tvg-name="2-CCTV-6 HD" group-title="山西省长治市组播 山西联通",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-7 HD" tvg-name="2-CCTV-7 HD" group-title="山西省长治市组播 山西联通",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-8 HD" tvg-name="2-CCTV-8 HD" group-title="山西省长治市组播 山西联通",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-9 HD" tvg-name="2-CCTV-9 HD" group-title="山西省长治市组播 山西联通",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-10 HD" tvg-name="2-CCTV-10 HD" group-title="山西省长治市组播 山西联通",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-11 HD" tvg-name="2-CCTV-11 HD" group-title="山西省长治市组播 山西联通",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-12 HD" tvg-name="2-CCTV-12 HD" group-title="山西省长治市组播 山西联通",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-13 HD" tvg-name="2-CCTV-13 HD" group-title="山西省长治市组播 山西联通",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-14 HD" tvg-name="2-CCTV-14 HD" group-title="山西省长治市组播 山西联通",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-15 HD" tvg-name="2-CCTV-15 HD" group-title="山西省长治市组播 山西联通",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-17 HD" tvg-name="2-CCTV-17 HD" group-title="山西省长治市组播 山西联通",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-5＋ HD" tvg-name="2-CCTV-5＋ HD" group-title="山西省长治市组播 山西联通",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="2-CCTV-16 HD" tvg-name="2-CCTV-16 HD" group-title="山西省长治市组播 山西联通",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="2-三沙卫视" tvg-name="2-三沙卫视" group-title="山西省长治市组播 山西联通",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="2-云南卫视" tvg-name="2-云南卫视" group-title="山西省长治市组播 山西联通",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="2-贵州卫视" tvg-name="2-贵州卫视" group-title="山西省长治市组播 山西联通",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="2-辽宁卫视" tvg-name="2-辽宁卫视" group-title="山西省长治市组播 山西联通",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="2-重庆卫视" tvg-name="2-重庆卫视" group-title="山西省长治市组播 山西联通",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="2-青海卫视" tvg-name="2-青海卫视" group-title="山西省长治市组播 山西联通",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="2-黑龙江卫视" tvg-name="2-黑龙江卫视" group-title="山西省长治市组播 山西联通",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="2-北京卫视" tvg-name="2-北京卫视" group-title="山西省长治市组播 山西联通",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="2-吉林卫视" tvg-name="2-吉林卫视" group-title="山西省长治市组播 山西联通",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="2-天津卫视" tvg-name="2-天津卫视" group-title="山西省长治市组播 山西联通",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="2-四川卫视" tvg-name="2-四川卫视" group-title="山西省长治市组播 山西联通",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="2-安徽卫视" tvg-name="2-安徽卫视" group-title="山西省长治市组播 山西联通",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="2-山东卫视" tvg-name="2-山东卫视" group-title="山西省长治市组播 山西联通",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="2-江苏卫视" tvg-name="2-江苏卫视" group-title="山西省长治市组播 山西联通",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="2-江西卫视" tvg-name="2-江西卫视" group-title="山西省长治市组播 山西联通",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="2-河北卫视" tvg-name="2-河北卫视" group-title="山西省长治市组播 山西联通",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="2-河南卫视" tvg-name="2-河南卫视" group-title="山西省长治市组播 山西联通",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="2-东方卫视" tvg-name="2-东方卫视" group-title="山西省长治市组播 山西联通",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="2-广西卫视" tvg-name="2-广西卫视" group-title="山西省长治市组播 山西联通",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="2-广东卫视" tvg-name="2-广东卫视" group-title="山西省长治市组播 山西联通",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="2-浙江卫视" tvg-name="2-浙江卫视" group-title="山西省长治市组播 山西联通",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="2-海南卫视" tvg-name="2-海南卫视" group-title="山西省长治市组播 山西联通",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="2-深圳卫视" tvg-name="2-深圳卫视" group-title="山西省长治市组播 山西联通",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="2-湖北卫视" tvg-name="2-湖北卫视" group-title="山西省长治市组播 山西联通",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="2-湖南卫视" tvg-name="2-湖南卫视" group-title="山西省长治市组播 山西联通",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="2-甘肃卫视" tvg-name="2-甘肃卫视" group-title="山西省长治市组播 山西联通",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="2-金鹰纪实" tvg-name="2-金鹰纪实" group-title="山西省长治市组播 山西联通",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="2-凤凰资讯" tvg-name="2-凤凰资讯" group-title="山西省长治市组播 山西联通",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="2-凤凰中文" tvg-name="2-凤凰中文" group-title="山西省长治市组播 山西联通",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="2-东南卫视" tvg-name="2-东南卫视" group-title="山西省长治市组播 山西联通",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="2-厦门卫视" tvg-name="2-厦门卫视" group-title="山西省长治市组播 山西联通",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="2-海峡卫视" tvg-name="2-海峡卫视" group-title="山西省长治市组播 山西联通",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="2-福建综合" tvg-name="2-福建综合" group-title="山西省长治市组播 山西联通",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="2-福建公共" tvg-name="2-福建公共" group-title="山西省长治市组播 山西联通",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="2-福建新闻" tvg-name="2-福建新闻" group-title="山西省长治市组播 山西联通",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="2-福建电视剧" tvg-name="2-福建电视剧" group-title="山西省长治市组播 山西联通",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="2-福建旅游" tvg-name="2-福建旅游" group-title="山西省长治市组播 山西联通",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="2-福建经济" tvg-name="2-福建经济" group-title="山西省长治市组播 山西联通",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="2-福建少儿" tvg-name="2-福建少儿" group-title="山西省长治市组播 山西联通",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="2-福建文体" tvg-name="2-福建文体" group-title="山西省长治市组播 山西联通",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="2-福建教育" tvg-name="2-福建教育" group-title="山西省长治市组播 山西联通",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="2-厦门-1" tvg-name="2-厦门-1" group-title="山西省长治市组播 山西联通",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="2-厦门-2" tvg-name="2-厦门-2" group-title="山西省长治市组播 山西联通",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="2-南平综合" tvg-name="2-南平综合" group-title="山西省长治市组播 山西联通",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="2-宁德综合" tvg-name="2-宁德综合" group-title="山西省长治市组播 山西联通",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="2-龙岩综合" tvg-name="2-龙岩综合" group-title="山西省长治市组播 山西联通",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="2-三明综合" tvg-name="2-三明综合" group-title="山西省长治市组播 山西联通",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="2-平潭综合" tvg-name="2-平潭综合" group-title="山西省长治市组播 山西联通",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="2-泉州综合" tvg-name="2-泉州综合" group-title="山西省长治市组播 山西联通",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="2-福州综合" tvg-name="2-福州综合" group-title="山西省长治市组播 山西联通",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="2-莆田综合" tvg-name="2-莆田综合" group-title="山西省长治市组播 山西联通",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="2-漳州综合" tvg-name="2-漳州综合" group-title="山西省长治市组播 山西联通",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-1 HD" tvg-name="3-CCTV-1 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-2 HD" tvg-name="3-CCTV-2 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-3 HD" tvg-name="3-CCTV-3 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-4 HD" tvg-name="3-CCTV-4 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-5 HD" tvg-name="3-CCTV-5 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-6 HD" tvg-name="3-CCTV-6 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-7 HD" tvg-name="3-CCTV-7 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-8 HD" tvg-name="3-CCTV-8 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-9 HD" tvg-name="3-CCTV-9 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-10 HD" tvg-name="3-CCTV-10 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-11 HD" tvg-name="3-CCTV-11 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-12 HD" tvg-name="3-CCTV-12 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-13 HD" tvg-name="3-CCTV-13 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-14 HD" tvg-name="3-CCTV-14 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-15 HD" tvg-name="3-CCTV-15 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-17 HD" tvg-name="3-CCTV-17 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-5＋ HD" tvg-name="3-CCTV-5＋ HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="3-CCTV-16 HD" tvg-name="3-CCTV-16 HD" group-title="俄罗斯组播 Russia Novotelecom",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="3-三沙卫视" tvg-name="3-三沙卫视" group-title="俄罗斯组播 Russia Novotelecom",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="3-云南卫视" tvg-name="3-云南卫视" group-title="俄罗斯组播 Russia Novotelecom",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="3-贵州卫视" tvg-name="3-贵州卫视" group-title="俄罗斯组播 Russia Novotelecom",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="3-辽宁卫视" tvg-name="3-辽宁卫视" group-title="俄罗斯组播 Russia Novotelecom",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="3-重庆卫视" tvg-name="3-重庆卫视" group-title="俄罗斯组播 Russia Novotelecom",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="3-青海卫视" tvg-name="3-青海卫视" group-title="俄罗斯组播 Russia Novotelecom",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="3-黑龙江卫视" tvg-name="3-黑龙江卫视" group-title="俄罗斯组播 Russia Novotelecom",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="3-北京卫视" tvg-name="3-北京卫视" group-title="俄罗斯组播 Russia Novotelecom",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="3-吉林卫视" tvg-name="3-吉林卫视" group-title="俄罗斯组播 Russia Novotelecom",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="3-天津卫视" tvg-name="3-天津卫视" group-title="俄罗斯组播 Russia Novotelecom",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="3-四川卫视" tvg-name="3-四川卫视" group-title="俄罗斯组播 Russia Novotelecom",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="3-安徽卫视" tvg-name="3-安徽卫视" group-title="俄罗斯组播 Russia Novotelecom",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="3-山东卫视" tvg-name="3-山东卫视" group-title="俄罗斯组播 Russia Novotelecom",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="3-江苏卫视" tvg-name="3-江苏卫视" group-title="俄罗斯组播 Russia Novotelecom",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="3-江西卫视" tvg-name="3-江西卫视" group-title="俄罗斯组播 Russia Novotelecom",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="3-河北卫视" tvg-name="3-河北卫视" group-title="俄罗斯组播 Russia Novotelecom",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="3-河南卫视" tvg-name="3-河南卫视" group-title="俄罗斯组播 Russia Novotelecom",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="3-东方卫视" tvg-name="3-东方卫视" group-title="俄罗斯组播 Russia Novotelecom",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="3-广西卫视" tvg-name="3-广西卫视" group-title="俄罗斯组播 Russia Novotelecom",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="3-广东卫视" tvg-name="3-广东卫视" group-title="俄罗斯组播 Russia Novotelecom",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="3-浙江卫视" tvg-name="3-浙江卫视" group-title="俄罗斯组播 Russia Novotelecom",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="3-海南卫视" tvg-name="3-海南卫视" group-title="俄罗斯组播 Russia Novotelecom",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="3-深圳卫视" tvg-name="3-深圳卫视" group-title="俄罗斯组播 Russia Novotelecom",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="3-湖北卫视" tvg-name="3-湖北卫视" group-title="俄罗斯组播 Russia Novotelecom",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="3-湖南卫视" tvg-name="3-湖南卫视" group-title="俄罗斯组播 Russia Novotelecom",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="3-甘肃卫视" tvg-name="3-甘肃卫视" group-title="俄罗斯组播 Russia Novotelecom",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="3-金鹰纪实" tvg-name="3-金鹰纪实" group-title="俄罗斯组播 Russia Novotelecom",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="3-凤凰资讯" tvg-name="3-凤凰资讯" group-title="俄罗斯组播 Russia Novotelecom",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="3-凤凰中文" tvg-name="3-凤凰中文" group-title="俄罗斯组播 Russia Novotelecom",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="3-东南卫视" tvg-name="3-东南卫视" group-title="俄罗斯组播 Russia Novotelecom",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="3-厦门卫视" tvg-name="3-厦门卫视" group-title="俄罗斯组播 Russia Novotelecom",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="3-海峡卫视" tvg-name="3-海峡卫视" group-title="俄罗斯组播 Russia Novotelecom",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="3-福建综合" tvg-name="3-福建综合" group-title="俄罗斯组播 Russia Novotelecom",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="3-福建公共" tvg-name="3-福建公共" group-title="俄罗斯组播 Russia Novotelecom",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="3-福建新闻" tvg-name="3-福建新闻" group-title="俄罗斯组播 Russia Novotelecom",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="3-福建电视剧" tvg-name="3-福建电视剧" group-title="俄罗斯组播 Russia Novotelecom",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="3-福建旅游" tvg-name="3-福建旅游" group-title="俄罗斯组播 Russia Novotelecom",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="3-福建经济" tvg-name="3-福建经济" group-title="俄罗斯组播 Russia Novotelecom",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="3-福建少儿" tvg-name="3-福建少儿" group-title="俄罗斯组播 Russia Novotelecom",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="3-福建文体" tvg-name="3-福建文体" group-title="俄罗斯组播 Russia Novotelecom",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="3-福建教育" tvg-name="3-福建教育" group-title="俄罗斯组播 Russia Novotelecom",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="3-厦门-1" tvg-name="3-厦门-1" group-title="俄罗斯组播 Russia Novotelecom",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="3-厦门-2" tvg-name="3-厦门-2" group-title="俄罗斯组播 Russia Novotelecom",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="3-南平综合" tvg-name="3-南平综合" group-title="俄罗斯组播 Russia Novotelecom",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="3-宁德综合" tvg-name="3-宁德综合" group-title="俄罗斯组播 Russia Novotelecom",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="3-龙岩综合" tvg-name="3-龙岩综合" group-title="俄罗斯组播 Russia Novotelecom",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="3-三明综合" tvg-name="3-三明综合" group-title="俄罗斯组播 Russia Novotelecom",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="3-平潭综合" tvg-name="3-平潭综合" group-title="俄罗斯组播 Russia Novotelecom",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="3-泉州综合" tvg-name="3-泉州综合" group-title="俄罗斯组播 Russia Novotelecom",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="3-福州综合" tvg-name="3-福州综合" group-title="俄罗斯组播 Russia Novotelecom",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="3-莆田综合" tvg-name="3-莆田综合" group-title="俄罗斯组播 Russia Novotelecom",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="3-漳州综合" tvg-name="3-漳州综合" group-title="俄罗斯组播 Russia Novotelecom",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-1 HD" tvg-name="4-CCTV-1 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-2 HD" tvg-name="4-CCTV-2 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-3 HD" tvg-name="4-CCTV-3 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-4 HD" tvg-name="4-CCTV-4 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-5 HD" tvg-name="4-CCTV-5 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-6 HD" tvg-name="4-CCTV-6 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-7 HD" tvg-name="4-CCTV-7 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-8 HD" tvg-name="4-CCTV-8 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-9 HD" tvg-name="4-CCTV-9 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-10 HD" tvg-name="4-CCTV-10 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-11 HD" tvg-name="4-CCTV-11 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-12 HD" tvg-name="4-CCTV-12 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-13 HD" tvg-name="4-CCTV-13 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-14 HD" tvg-name="4-CCTV-14 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-15 HD" tvg-name="4-CCTV-15 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-17 HD" tvg-name="4-CCTV-17 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-5＋ HD" tvg-name="4-CCTV-5＋ HD" group-title="广西玉林市博白县组播 广西电信",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="4-CCTV-16 HD" tvg-name="4-CCTV-16 HD" group-title="广西玉林市博白县组播 广西电信",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="4-三沙卫视" tvg-name="4-三沙卫视" group-title="广西玉林市博白县组播 广西电信",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="4-云南卫视" tvg-name="4-云南卫视" group-title="广西玉林市博白县组播 广西电信",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="4-贵州卫视" tvg-name="4-贵州卫视" group-title="广西玉林市博白县组播 广西电信",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="4-辽宁卫视" tvg-name="4-辽宁卫视" group-title="广西玉林市博白县组播 广西电信",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="4-重庆卫视" tvg-name="4-重庆卫视" group-title="广西玉林市博白县组播 广西电信",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="4-青海卫视" tvg-name="4-青海卫视" group-title="广西玉林市博白县组播 广西电信",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="4-黑龙江卫视" tvg-name="4-黑龙江卫视" group-title="广西玉林市博白县组播 广西电信",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="4-北京卫视" tvg-name="4-北京卫视" group-title="广西玉林市博白县组播 广西电信",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="4-吉林卫视" tvg-name="4-吉林卫视" group-title="广西玉林市博白县组播 广西电信",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="4-天津卫视" tvg-name="4-天津卫视" group-title="广西玉林市博白县组播 广西电信",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="4-四川卫视" tvg-name="4-四川卫视" group-title="广西玉林市博白县组播 广西电信",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="4-安徽卫视" tvg-name="4-安徽卫视" group-title="广西玉林市博白县组播 广西电信",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="4-山东卫视" tvg-name="4-山东卫视" group-title="广西玉林市博白县组播 广西电信",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="4-江苏卫视" tvg-name="4-江苏卫视" group-title="广西玉林市博白县组播 广西电信",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="4-江西卫视" tvg-name="4-江西卫视" group-title="广西玉林市博白县组播 广西电信",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="4-河北卫视" tvg-name="4-河北卫视" group-title="广西玉林市博白县组播 广西电信",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="4-河南卫视" tvg-name="4-河南卫视" group-title="广西玉林市博白县组播 广西电信",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="4-东方卫视" tvg-name="4-东方卫视" group-title="广西玉林市博白县组播 广西电信",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="4-广西卫视" tvg-name="4-广西卫视" group-title="广西玉林市博白县组播 广西电信",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="4-广东卫视" tvg-name="4-广东卫视" group-title="广西玉林市博白县组播 广西电信",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="4-浙江卫视" tvg-name="4-浙江卫视" group-title="广西玉林市博白县组播 广西电信",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="4-海南卫视" tvg-name="4-海南卫视" group-title="广西玉林市博白县组播 广西电信",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="4-深圳卫视" tvg-name="4-深圳卫视" group-title="广西玉林市博白县组播 广西电信",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="4-湖北卫视" tvg-name="4-湖北卫视" group-title="广西玉林市博白县组播 广西电信",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="4-湖南卫视" tvg-name="4-湖南卫视" group-title="广西玉林市博白县组播 广西电信",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="4-甘肃卫视" tvg-name="4-甘肃卫视" group-title="广西玉林市博白县组播 广西电信",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="4-金鹰纪实" tvg-name="4-金鹰纪实" group-title="广西玉林市博白县组播 广西电信",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="4-凤凰资讯" tvg-name="4-凤凰资讯" group-title="广西玉林市博白县组播 广西电信",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="4-凤凰中文" tvg-name="4-凤凰中文" group-title="广西玉林市博白县组播 广西电信",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="4-东南卫视" tvg-name="4-东南卫视" group-title="广西玉林市博白县组播 广西电信",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="4-厦门卫视" tvg-name="4-厦门卫视" group-title="广西玉林市博白县组播 广西电信",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="4-海峡卫视" tvg-name="4-海峡卫视" group-title="广西玉林市博白县组播 广西电信",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="4-福建综合" tvg-name="4-福建综合" group-title="广西玉林市博白县组播 广西电信",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="4-福建公共" tvg-name="4-福建公共" group-title="广西玉林市博白县组播 广西电信",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="4-福建新闻" tvg-name="4-福建新闻" group-title="广西玉林市博白县组播 广西电信",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="4-福建电视剧" tvg-name="4-福建电视剧" group-title="广西玉林市博白县组播 广西电信",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="4-福建旅游" tvg-name="4-福建旅游" group-title="广西玉林市博白县组播 广西电信",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="4-福建经济" tvg-name="4-福建经济" group-title="广西玉林市博白县组播 广西电信",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="4-福建少儿" tvg-name="4-福建少儿" group-title="广西玉林市博白县组播 广西电信",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="4-福建文体" tvg-name="4-福建文体" group-title="广西玉林市博白县组播 广西电信",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="4-福建教育" tvg-name="4-福建教育" group-title="广西玉林市博白县组播 广西电信",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="4-厦门-1" tvg-name="4-厦门-1" group-title="广西玉林市博白县组播 广西电信",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="4-厦门-2" tvg-name="4-厦门-2" group-title="广西玉林市博白县组播 广西电信",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="4-南平综合" tvg-name="4-南平综合" group-title="广西玉林市博白县组播 广西电信",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="4-宁德综合" tvg-name="4-宁德综合" group-title="广西玉林市博白县组播 广西电信",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="4-龙岩综合" tvg-name="4-龙岩综合" group-title="广西玉林市博白县组播 广西电信",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="4-三明综合" tvg-name="4-三明综合" group-title="广西玉林市博白县组播 广西电信",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="4-平潭综合" tvg-name="4-平潭综合" group-title="广西玉林市博白县组播 广西电信",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="4-泉州综合" tvg-name="4-泉州综合" group-title="广西玉林市博白县组播 广西电信",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="4-福州综合" tvg-name="4-福州综合" group-title="广西玉林市博白县组播 广西电信",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="4-莆田综合" tvg-name="4-莆田综合" group-title="广西玉林市博白县组播 广西电信",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="4-漳州综合" tvg-name="4-漳州综合" group-title="广西玉林市博白县组播 广西电信",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-1 HD" tvg-name="5-CCTV-1 HD" group-title="美国组播 上海电信",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-2 HD" tvg-name="5-CCTV-2 HD" group-title="美国组播 上海电信",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-3 HD" tvg-name="5-CCTV-3 HD" group-title="美国组播 上海电信",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-4 HD" tvg-name="5-CCTV-4 HD" group-title="美国组播 上海电信",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-5 HD" tvg-name="5-CCTV-5 HD" group-title="美国组播 上海电信",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-6 HD" tvg-name="5-CCTV-6 HD" group-title="美国组播 上海电信",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-7 HD" tvg-name="5-CCTV-7 HD" group-title="美国组播 上海电信",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-8 HD" tvg-name="5-CCTV-8 HD" group-title="美国组播 上海电信",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-9 HD" tvg-name="5-CCTV-9 HD" group-title="美国组播 上海电信",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-10 HD" tvg-name="5-CCTV-10 HD" group-title="美国组播 上海电信",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-11 HD" tvg-name="5-CCTV-11 HD" group-title="美国组播 上海电信",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-12 HD" tvg-name="5-CCTV-12 HD" group-title="美国组播 上海电信",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-13 HD" tvg-name="5-CCTV-13 HD" group-title="美国组播 上海电信",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-14 HD" tvg-name="5-CCTV-14 HD" group-title="美国组播 上海电信",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-15 HD" tvg-name="5-CCTV-15 HD" group-title="美国组播 上海电信",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-17 HD" tvg-name="5-CCTV-17 HD" group-title="美国组播 上海电信",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-5＋ HD" tvg-name="5-CCTV-5＋ HD" group-title="美国组播 上海电信",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="5-CCTV-16 HD" tvg-name="5-CCTV-16 HD" group-title="美国组播 上海电信",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="5-三沙卫视" tvg-name="5-三沙卫视" group-title="美国组播 上海电信",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="5-云南卫视" tvg-name="5-云南卫视" group-title="美国组播 上海电信",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="5-贵州卫视" tvg-name="5-贵州卫视" group-title="美国组播 上海电信",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="5-辽宁卫视" tvg-name="5-辽宁卫视" group-title="美国组播 上海电信",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="5-重庆卫视" tvg-name="5-重庆卫视" group-title="美国组播 上海电信",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="5-青海卫视" tvg-name="5-青海卫视" group-title="美国组播 上海电信",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="5-黑龙江卫视" tvg-name="5-黑龙江卫视" group-title="美国组播 上海电信",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="5-北京卫视" tvg-name="5-北京卫视" group-title="美国组播 上海电信",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="5-吉林卫视" tvg-name="5-吉林卫视" group-title="美国组播 上海电信",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="5-天津卫视" tvg-name="5-天津卫视" group-title="美国组播 上海电信",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="5-四川卫视" tvg-name="5-四川卫视" group-title="美国组播 上海电信",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="5-安徽卫视" tvg-name="5-安徽卫视" group-title="美国组播 上海电信",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="5-山东卫视" tvg-name="5-山东卫视" group-title="美国组播 上海电信",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="5-江苏卫视" tvg-name="5-江苏卫视" group-title="美国组播 上海电信",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="5-江西卫视" tvg-name="5-江西卫视" group-title="美国组播 上海电信",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="5-河北卫视" tvg-name="5-河北卫视" group-title="美国组播 上海电信",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="5-河南卫视" tvg-name="5-河南卫视" group-title="美国组播 上海电信",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="5-东方卫视" tvg-name="5-东方卫视" group-title="美国组播 上海电信",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="5-广西卫视" tvg-name="5-广西卫视" group-title="美国组播 上海电信",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="5-广东卫视" tvg-name="5-广东卫视" group-title="美国组播 上海电信",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="5-浙江卫视" tvg-name="5-浙江卫视" group-title="美国组播 上海电信",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="5-海南卫视" tvg-name="5-海南卫视" group-title="美国组播 上海电信",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="5-深圳卫视" tvg-name="5-深圳卫视" group-title="美国组播 上海电信",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="5-湖北卫视" tvg-name="5-湖北卫视" group-title="美国组播 上海电信",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="5-湖南卫视" tvg-name="5-湖南卫视" group-title="美国组播 上海电信",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="5-甘肃卫视" tvg-name="5-甘肃卫视" group-title="美国组播 上海电信",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="5-金鹰纪实" tvg-name="5-金鹰纪实" group-title="美国组播 上海电信",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="5-凤凰资讯" tvg-name="5-凤凰资讯" group-title="美国组播 上海电信",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="5-凤凰中文" tvg-name="5-凤凰中文" group-title="美国组播 上海电信",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="5-东南卫视" tvg-name="5-东南卫视" group-title="美国组播 上海电信",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="5-厦门卫视" tvg-name="5-厦门卫视" group-title="美国组播 上海电信",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="5-海峡卫视" tvg-name="5-海峡卫视" group-title="美国组播 上海电信",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="5-福建综合" tvg-name="5-福建综合" group-title="美国组播 上海电信",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="5-福建公共" tvg-name="5-福建公共" group-title="美国组播 上海电信",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="5-福建新闻" tvg-name="5-福建新闻" group-title="美国组播 上海电信",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="5-福建电视剧" tvg-name="5-福建电视剧" group-title="美国组播 上海电信",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="5-福建旅游" tvg-name="5-福建旅游" group-title="美国组播 上海电信",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="5-福建经济" tvg-name="5-福建经济" group-title="美国组播 上海电信",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="5-福建少儿" tvg-name="5-福建少儿" group-title="美国组播 上海电信",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="5-福建文体" tvg-name="5-福建文体" group-title="美国组播 上海电信",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="5-福建教育" tvg-name="5-福建教育" group-title="美国组播 上海电信",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="5-厦门-1" tvg-name="5-厦门-1" group-title="美国组播 上海电信",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="5-厦门-2" tvg-name="5-厦门-2" group-title="美国组播 上海电信",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="5-南平综合" tvg-name="5-南平综合" group-title="美国组播 上海电信",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="5-宁德综合" tvg-name="5-宁德综合" group-title="美国组播 上海电信",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="5-龙岩综合" tvg-name="5-龙岩综合" group-title="美国组播 上海电信",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="5-三明综合" tvg-name="5-三明综合" group-title="美国组播 上海电信",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="5-平潭综合" tvg-name="5-平潭综合" group-title="美国组播 上海电信",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="5-泉州综合" tvg-name="5-泉州综合" group-title="美国组播 上海电信",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="5-福州综合" tvg-name="5-福州综合" group-title="美国组播 上海电信",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="5-莆田综合" tvg-name="5-莆田综合" group-title="美国组播 上海电信",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="5-漳州综合" tvg-name="5-漳州综合" group-title="美国组播 上海电信",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-1 HD" tvg-name="6-CCTV-1 HD" group-title="酒店  美国",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-2 HD" tvg-name="6-CCTV-2 HD" group-title="酒店  美国",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-3 HD" tvg-name="6-CCTV-3 HD" group-title="酒店  美国",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-4 HD" tvg-name="6-CCTV-4 HD" group-title="酒店  美国",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-5 HD" tvg-name="6-CCTV-5 HD" group-title="酒店  美国",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-6 HD" tvg-name="6-CCTV-6 HD" group-title="酒店  美国",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-7 HD" tvg-name="6-CCTV-7 HD" group-title="酒店  美国",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-8 HD" tvg-name="6-CCTV-8 HD" group-title="酒店  美国",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-9 HD" tvg-name="6-CCTV-9 HD" group-title="酒店  美国",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-10 HD" tvg-name="6-CCTV-10 HD" group-title="酒店  美国",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-11 HD" tvg-name="6-CCTV-11 HD" group-title="酒店  美国",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-12 HD" tvg-name="6-CCTV-12 HD" group-title="酒店  美国",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-13 HD" tvg-name="6-CCTV-13 HD" group-title="酒店  美国",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-14 HD" tvg-name="6-CCTV-14 HD" group-title="酒店  美国",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-15 HD" tvg-name="6-CCTV-15 HD" group-title="酒店  美国",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-17 HD" tvg-name="6-CCTV-17 HD" group-title="酒店  美国",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-5＋ HD" tvg-name="6-CCTV-5＋ HD" group-title="酒店  美国",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="6-CCTV-16 HD" tvg-name="6-CCTV-16 HD" group-title="酒店  美国",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="6-三沙卫视" tvg-name="6-三沙卫视" group-title="酒店  美国",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="6-云南卫视" tvg-name="6-云南卫视" group-title="酒店  美国",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="6-贵州卫视" tvg-name="6-贵州卫视" group-title="酒店  美国",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="6-辽宁卫视" tvg-name="6-辽宁卫视" group-title="酒店  美国",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="6-重庆卫视" tvg-name="6-重庆卫视" group-title="酒店  美国",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="6-青海卫视" tvg-name="6-青海卫视" group-title="酒店  美国",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="6-黑龙江卫视" tvg-name="6-黑龙江卫视" group-title="酒店  美国",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="6-北京卫视" tvg-name="6-北京卫视" group-title="酒店  美国",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="6-吉林卫视" tvg-name="6-吉林卫视" group-title="酒店  美国",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="6-天津卫视" tvg-name="6-天津卫视" group-title="酒店  美国",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="6-四川卫视" tvg-name="6-四川卫视" group-title="酒店  美国",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="6-安徽卫视" tvg-name="6-安徽卫视" group-title="酒店  美国",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="6-山东卫视" tvg-name="6-山东卫视" group-title="酒店  美国",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="6-江苏卫视" tvg-name="6-江苏卫视" group-title="酒店  美国",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="6-江西卫视" tvg-name="6-江西卫视" group-title="酒店  美国",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="6-河北卫视" tvg-name="6-河北卫视" group-title="酒店  美国",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="6-河南卫视" tvg-name="6-河南卫视" group-title="酒店  美国",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="6-东方卫视" tvg-name="6-东方卫视" group-title="酒店  美国",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="6-广西卫视" tvg-name="6-广西卫视" group-title="酒店  美国",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="6-广东卫视" tvg-name="6-广东卫视" group-title="酒店  美国",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="6-浙江卫视" tvg-name="6-浙江卫视" group-title="酒店  美国",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="6-海南卫视" tvg-name="6-海南卫视" group-title="酒店  美国",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="6-深圳卫视" tvg-name="6-深圳卫视" group-title="酒店  美国",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="6-湖北卫视" tvg-name="6-湖北卫视" group-title="酒店  美国",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="6-湖南卫视" tvg-name="6-湖南卫视" group-title="酒店  美国",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="6-甘肃卫视" tvg-name="6-甘肃卫视" group-title="酒店  美国",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="6-金鹰纪实" tvg-name="6-金鹰纪实" group-title="酒店  美国",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="6-凤凰资讯" tvg-name="6-凤凰资讯" group-title="酒店  美国",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="6-凤凰中文" tvg-name="6-凤凰中文" group-title="酒店  美国",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="6-东南卫视" tvg-name="6-东南卫视" group-title="酒店  美国",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="6-厦门卫视" tvg-name="6-厦门卫视" group-title="酒店  美国",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="6-海峡卫视" tvg-name="6-海峡卫视" group-title="酒店  美国",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="6-福建综合" tvg-name="6-福建综合" group-title="酒店  美国",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="6-福建公共" tvg-name="6-福建公共" group-title="酒店  美国",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="6-福建新闻" tvg-name="6-福建新闻" group-title="酒店  美国",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="6-福建电视剧" tvg-name="6-福建电视剧" group-title="酒店  美国",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="6-福建旅游" tvg-name="6-福建旅游" group-title="酒店  美国",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="6-福建经济" tvg-name="6-福建经济" group-title="酒店  美国",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="6-福建少儿" tvg-name="6-福建少儿" group-title="酒店  美国",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="6-福建文体" tvg-name="6-福建文体" group-title="酒店  美国",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="6-福建教育" tvg-name="6-福建教育" group-title="酒店  美国",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="6-厦门-1" tvg-name="6-厦门-1" group-title="酒店  美国",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="6-厦门-2" tvg-name="6-厦门-2" group-title="酒店  美国",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="6-南平综合" tvg-name="6-南平综合" group-title="酒店  美国",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="6-宁德综合" tvg-name="6-宁德综合" group-title="酒店  美国",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="6-龙岩综合" tvg-name="6-龙岩综合" group-title="酒店  美国",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="6-三明综合" tvg-name="6-三明综合" group-title="酒店  美国",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="6-平潭综合" tvg-name="6-平潭综合" group-title="酒店  美国",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="6-泉州综合" tvg-name="6-泉州综合" group-title="酒店  美国",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="6-福州综合" tvg-name="6-福州综合" group-title="酒店  美国",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="6-莆田综合" tvg-name="6-莆田综合" group-title="酒店  美国",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="6-漳州综合" tvg-name="6-漳州综合" group-title="酒店  美国",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-1 HD" tvg-name="7-CCTV-1 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-2 HD" tvg-name="7-CCTV-2 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-3 HD" tvg-name="7-CCTV-3 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-4 HD" tvg-name="7-CCTV-4 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-5 HD" tvg-name="7-CCTV-5 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-6 HD" tvg-name="7-CCTV-6 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-7 HD" tvg-name="7-CCTV-7 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-8 HD" tvg-name="7-CCTV-8 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-9 HD" tvg-name="7-CCTV-9 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-10 HD" tvg-name="7-CCTV-10 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-11 HD" tvg-name="7-CCTV-11 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-12 HD" tvg-name="7-CCTV-12 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-13 HD" tvg-name="7-CCTV-13 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-14 HD" tvg-name="7-CCTV-14 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-15 HD" tvg-name="7-CCTV-15 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-17 HD" tvg-name="7-CCTV-17 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-5＋ HD" tvg-name="7-CCTV-5＋ HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="7-CCTV-16 HD" tvg-name="7-CCTV-16 HD" group-title="河北省邯郸市永年区酒店  联通",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="7-三沙卫视" tvg-name="7-三沙卫视" group-title="河北省邯郸市永年区酒店  联通",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="7-云南卫视" tvg-name="7-云南卫视" group-title="河北省邯郸市永年区酒店  联通",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="7-贵州卫视" tvg-name="7-贵州卫视" group-title="河北省邯郸市永年区酒店  联通",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="7-辽宁卫视" tvg-name="7-辽宁卫视" group-title="河北省邯郸市永年区酒店  联通",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="7-重庆卫视" tvg-name="7-重庆卫视" group-title="河北省邯郸市永年区酒店  联通",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="7-青海卫视" tvg-name="7-青海卫视" group-title="河北省邯郸市永年区酒店  联通",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="7-黑龙江卫视" tvg-name="7-黑龙江卫视" group-title="河北省邯郸市永年区酒店  联通",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="7-北京卫视" tvg-name="7-北京卫视" group-title="河北省邯郸市永年区酒店  联通",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="7-吉林卫视" tvg-name="7-吉林卫视" group-title="河北省邯郸市永年区酒店  联通",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="7-天津卫视" tvg-name="7-天津卫视" group-title="河北省邯郸市永年区酒店  联通",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="7-四川卫视" tvg-name="7-四川卫视" group-title="河北省邯郸市永年区酒店  联通",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="7-安徽卫视" tvg-name="7-安徽卫视" group-title="河北省邯郸市永年区酒店  联通",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="7-山东卫视" tvg-name="7-山东卫视" group-title="河北省邯郸市永年区酒店  联通",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="7-江苏卫视" tvg-name="7-江苏卫视" group-title="河北省邯郸市永年区酒店  联通",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="7-江西卫视" tvg-name="7-江西卫视" group-title="河北省邯郸市永年区酒店  联通",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="7-河北卫视" tvg-name="7-河北卫视" group-title="河北省邯郸市永年区酒店  联通",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="7-河南卫视" tvg-name="7-河南卫视" group-title="河北省邯郸市永年区酒店  联通",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="7-东方卫视" tvg-name="7-东方卫视" group-title="河北省邯郸市永年区酒店  联通",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="7-广西卫视" tvg-name="7-广西卫视" group-title="河北省邯郸市永年区酒店  联通",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="7-广东卫视" tvg-name="7-广东卫视" group-title="河北省邯郸市永年区酒店  联通",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="7-浙江卫视" tvg-name="7-浙江卫视" group-title="河北省邯郸市永年区酒店  联通",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="7-海南卫视" tvg-name="7-海南卫视" group-title="河北省邯郸市永年区酒店  联通",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="7-深圳卫视" tvg-name="7-深圳卫视" group-title="河北省邯郸市永年区酒店  联通",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="7-湖北卫视" tvg-name="7-湖北卫视" group-title="河北省邯郸市永年区酒店  联通",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="7-湖南卫视" tvg-name="7-湖南卫视" group-title="河北省邯郸市永年区酒店  联通",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="7-甘肃卫视" tvg-name="7-甘肃卫视" group-title="河北省邯郸市永年区酒店  联通",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="7-金鹰纪实" tvg-name="7-金鹰纪实" group-title="河北省邯郸市永年区酒店  联通",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="7-凤凰资讯" tvg-name="7-凤凰资讯" group-title="河北省邯郸市永年区酒店  联通",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="7-凤凰中文" tvg-name="7-凤凰中文" group-title="河北省邯郸市永年区酒店  联通",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="7-东南卫视" tvg-name="7-东南卫视" group-title="河北省邯郸市永年区酒店  联通",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="7-厦门卫视" tvg-name="7-厦门卫视" group-title="河北省邯郸市永年区酒店  联通",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="7-海峡卫视" tvg-name="7-海峡卫视" group-title="河北省邯郸市永年区酒店  联通",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="7-福建综合" tvg-name="7-福建综合" group-title="河北省邯郸市永年区酒店  联通",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="7-福建公共" tvg-name="7-福建公共" group-title="河北省邯郸市永年区酒店  联通",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="7-福建新闻" tvg-name="7-福建新闻" group-title="河北省邯郸市永年区酒店  联通",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="7-福建电视剧" tvg-name="7-福建电视剧" group-title="河北省邯郸市永年区酒店  联通",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="7-福建旅游" tvg-name="7-福建旅游" group-title="河北省邯郸市永年区酒店  联通",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="7-福建经济" tvg-name="7-福建经济" group-title="河北省邯郸市永年区酒店  联通",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="7-福建少儿" tvg-name="7-福建少儿" group-title="河北省邯郸市永年区酒店  联通",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="7-福建文体" tvg-name="7-福建文体" group-title="河北省邯郸市永年区酒店  联通",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="7-福建教育" tvg-name="7-福建教育" group-title="河北省邯郸市永年区酒店  联通",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="7-厦门-1" tvg-name="7-厦门-1" group-title="河北省邯郸市永年区酒店  联通",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="7-厦门-2" tvg-name="7-厦门-2" group-title="河北省邯郸市永年区酒店  联通",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="7-南平综合" tvg-name="7-南平综合" group-title="河北省邯郸市永年区酒店  联通",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="7-宁德综合" tvg-name="7-宁德综合" group-title="河北省邯郸市永年区酒店  联通",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="7-龙岩综合" tvg-name="7-龙岩综合" group-title="河北省邯郸市永年区酒店  联通",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="7-三明综合" tvg-name="7-三明综合" group-title="河北省邯郸市永年区酒店  联通",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="7-平潭综合" tvg-name="7-平潭综合" group-title="河北省邯郸市永年区酒店  联通",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="7-泉州综合" tvg-name="7-泉州综合" group-title="河北省邯郸市永年区酒店  联通",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="7-福州综合" tvg-name="7-福州综合" group-title="河北省邯郸市永年区酒店  联通",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="7-莆田综合" tvg-name="7-莆田综合" group-title="河北省邯郸市永年区酒店  联通",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="7-漳州综合" tvg-name="7-漳州综合" group-title="河北省邯郸市永年区酒店  联通",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-1 HD" tvg-name="8-CCTV-1 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-2 HD" tvg-name="8-CCTV-2 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-3 HD" tvg-name="8-CCTV-3 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-4 HD" tvg-name="8-CCTV-4 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-5 HD" tvg-name="8-CCTV-5 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-6 HD" tvg-name="8-CCTV-6 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-7 HD" tvg-name="8-CCTV-7 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-8 HD" tvg-name="8-CCTV-8 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-9 HD" tvg-name="8-CCTV-9 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-10 HD" tvg-name="8-CCTV-10 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-11 HD" tvg-name="8-CCTV-11 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-12 HD" tvg-name="8-CCTV-12 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-13 HD" tvg-name="8-CCTV-13 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-14 HD" tvg-name="8-CCTV-14 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-15 HD" tvg-name="8-CCTV-15 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-17 HD" tvg-name="8-CCTV-17 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-5＋ HD" tvg-name="8-CCTV-5＋ HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="8-CCTV-16 HD" tvg-name="8-CCTV-16 HD" group-title="辽宁省大连市酒店  联通ADSL",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="8-三沙卫视" tvg-name="8-三沙卫视" group-title="辽宁省大连市酒店  联通ADSL",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="8-云南卫视" tvg-name="8-云南卫视" group-title="辽宁省大连市酒店  联通ADSL",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="8-贵州卫视" tvg-name="8-贵州卫视" group-title="辽宁省大连市酒店  联通ADSL",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="8-辽宁卫视" tvg-name="8-辽宁卫视" group-title="辽宁省大连市酒店  联通ADSL",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="8-重庆卫视" tvg-name="8-重庆卫视" group-title="辽宁省大连市酒店  联通ADSL",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="8-青海卫视" tvg-name="8-青海卫视" group-title="辽宁省大连市酒店  联通ADSL",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="8-黑龙江卫视" tvg-name="8-黑龙江卫视" group-title="辽宁省大连市酒店  联通ADSL",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="8-北京卫视" tvg-name="8-北京卫视" group-title="辽宁省大连市酒店  联通ADSL",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="8-吉林卫视" tvg-name="8-吉林卫视" group-title="辽宁省大连市酒店  联通ADSL",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="8-天津卫视" tvg-name="8-天津卫视" group-title="辽宁省大连市酒店  联通ADSL",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="8-四川卫视" tvg-name="8-四川卫视" group-title="辽宁省大连市酒店  联通ADSL",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="8-安徽卫视" tvg-name="8-安徽卫视" group-title="辽宁省大连市酒店  联通ADSL",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="8-山东卫视" tvg-name="8-山东卫视" group-title="辽宁省大连市酒店  联通ADSL",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="8-江苏卫视" tvg-name="8-江苏卫视" group-title="辽宁省大连市酒店  联通ADSL",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="8-江西卫视" tvg-name="8-江西卫视" group-title="辽宁省大连市酒店  联通ADSL",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="8-河北卫视" tvg-name="8-河北卫视" group-title="辽宁省大连市酒店  联通ADSL",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="8-河南卫视" tvg-name="8-河南卫视" group-title="辽宁省大连市酒店  联通ADSL",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="8-东方卫视" tvg-name="8-东方卫视" group-title="辽宁省大连市酒店  联通ADSL",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="8-广西卫视" tvg-name="8-广西卫视" group-title="辽宁省大连市酒店  联通ADSL",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="8-广东卫视" tvg-name="8-广东卫视" group-title="辽宁省大连市酒店  联通ADSL",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="8-浙江卫视" tvg-name="8-浙江卫视" group-title="辽宁省大连市酒店  联通ADSL",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="8-海南卫视" tvg-name="8-海南卫视" group-title="辽宁省大连市酒店  联通ADSL",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="8-深圳卫视" tvg-name="8-深圳卫视" group-title="辽宁省大连市酒店  联通ADSL",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="8-湖北卫视" tvg-name="8-湖北卫视" group-title="辽宁省大连市酒店  联通ADSL",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="8-湖南卫视" tvg-name="8-湖南卫视" group-title="辽宁省大连市酒店  联通ADSL",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="8-甘肃卫视" tvg-name="8-甘肃卫视" group-title="辽宁省大连市酒店  联通ADSL",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="8-金鹰纪实" tvg-name="8-金鹰纪实" group-title="辽宁省大连市酒店  联通ADSL",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="8-凤凰资讯" tvg-name="8-凤凰资讯" group-title="辽宁省大连市酒店  联通ADSL",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="8-凤凰中文" tvg-name="8-凤凰中文" group-title="辽宁省大连市酒店  联通ADSL",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="8-东南卫视" tvg-name="8-东南卫视" group-title="辽宁省大连市酒店  联通ADSL",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="8-厦门卫视" tvg-name="8-厦门卫视" group-title="辽宁省大连市酒店  联通ADSL",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="8-海峡卫视" tvg-name="8-海峡卫视" group-title="辽宁省大连市酒店  联通ADSL",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="8-福建综合" tvg-name="8-福建综合" group-title="辽宁省大连市酒店  联通ADSL",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="8-福建公共" tvg-name="8-福建公共" group-title="辽宁省大连市酒店  联通ADSL",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="8-福建新闻" tvg-name="8-福建新闻" group-title="辽宁省大连市酒店  联通ADSL",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="8-福建电视剧" tvg-name="8-福建电视剧" group-title="辽宁省大连市酒店  联通ADSL",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="8-福建旅游" tvg-name="8-福建旅游" group-title="辽宁省大连市酒店  联通ADSL",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="8-福建经济" tvg-name="8-福建经济" group-title="辽宁省大连市酒店  联通ADSL",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="8-福建少儿" tvg-name="8-福建少儿" group-title="辽宁省大连市酒店  联通ADSL",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="8-福建文体" tvg-name="8-福建文体" group-title="辽宁省大连市酒店  联通ADSL",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="8-福建教育" tvg-name="8-福建教育" group-title="辽宁省大连市酒店  联通ADSL",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="8-厦门-1" tvg-name="8-厦门-1" group-title="辽宁省大连市酒店  联通ADSL",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="8-厦门-2" tvg-name="8-厦门-2" group-title="辽宁省大连市酒店  联通ADSL",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="8-南平综合" tvg-name="8-南平综合" group-title="辽宁省大连市酒店  联通ADSL",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="8-宁德综合" tvg-name="8-宁德综合" group-title="辽宁省大连市酒店  联通ADSL",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="8-龙岩综合" tvg-name="8-龙岩综合" group-title="辽宁省大连市酒店  联通ADSL",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="8-三明综合" tvg-name="8-三明综合" group-title="辽宁省大连市酒店  联通ADSL",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="8-平潭综合" tvg-name="8-平潭综合" group-title="辽宁省大连市酒店  联通ADSL",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="8-泉州综合" tvg-name="8-泉州综合" group-title="辽宁省大连市酒店  联通ADSL",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="8-福州综合" tvg-name="8-福州综合" group-title="辽宁省大连市酒店  联通ADSL",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="8-莆田综合" tvg-name="8-莆田综合" group-title="辽宁省大连市酒店  联通ADSL",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="8-漳州综合" tvg-name="8-漳州综合" group-title="辽宁省大连市酒店  联通ADSL",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-1 HD" tvg-name="9-CCTV-1 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-2 HD" tvg-name="9-CCTV-2 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-3 HD" tvg-name="9-CCTV-3 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-4 HD" tvg-name="9-CCTV-4 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-5 HD" tvg-name="9-CCTV-5 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-6 HD" tvg-name="9-CCTV-6 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-7 HD" tvg-name="9-CCTV-7 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-8 HD" tvg-name="9-CCTV-8 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-9 HD" tvg-name="9-CCTV-9 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-10 HD" tvg-name="9-CCTV-10 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-11 HD" tvg-name="9-CCTV-11 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-12 HD" tvg-name="9-CCTV-12 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-13 HD" tvg-name="9-CCTV-13 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-14 HD" tvg-name="9-CCTV-14 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-15 HD" tvg-name="9-CCTV-15 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-17 HD" tvg-name="9-CCTV-17 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-5＋ HD" tvg-name="9-CCTV-5＋ HD" group-title="内蒙古赤峰市酒店  联通",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="9-CCTV-16 HD" tvg-name="9-CCTV-16 HD" group-title="内蒙古赤峰市酒店  联通",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="9-三沙卫视" tvg-name="9-三沙卫视" group-title="内蒙古赤峰市酒店  联通",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="9-云南卫视" tvg-name="9-云南卫视" group-title="内蒙古赤峰市酒店  联通",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="9-贵州卫视" tvg-name="9-贵州卫视" group-title="内蒙古赤峰市酒店  联通",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="9-辽宁卫视" tvg-name="9-辽宁卫视" group-title="内蒙古赤峰市酒店  联通",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="9-重庆卫视" tvg-name="9-重庆卫视" group-title="内蒙古赤峰市酒店  联通",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="9-青海卫视" tvg-name="9-青海卫视" group-title="内蒙古赤峰市酒店  联通",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="9-黑龙江卫视" tvg-name="9-黑龙江卫视" group-title="内蒙古赤峰市酒店  联通",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="9-北京卫视" tvg-name="9-北京卫视" group-title="内蒙古赤峰市酒店  联通",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="9-吉林卫视" tvg-name="9-吉林卫视" group-title="内蒙古赤峰市酒店  联通",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="9-天津卫视" tvg-name="9-天津卫视" group-title="内蒙古赤峰市酒店  联通",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="9-四川卫视" tvg-name="9-四川卫视" group-title="内蒙古赤峰市酒店  联通",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="9-安徽卫视" tvg-name="9-安徽卫视" group-title="内蒙古赤峰市酒店  联通",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="9-山东卫视" tvg-name="9-山东卫视" group-title="内蒙古赤峰市酒店  联通",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="9-江苏卫视" tvg-name="9-江苏卫视" group-title="内蒙古赤峰市酒店  联通",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="9-江西卫视" tvg-name="9-江西卫视" group-title="内蒙古赤峰市酒店  联通",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="9-河北卫视" tvg-name="9-河北卫视" group-title="内蒙古赤峰市酒店  联通",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="9-河南卫视" tvg-name="9-河南卫视" group-title="内蒙古赤峰市酒店  联通",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="9-东方卫视" tvg-name="9-东方卫视" group-title="内蒙古赤峰市酒店  联通",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="9-广西卫视" tvg-name="9-广西卫视" group-title="内蒙古赤峰市酒店  联通",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="9-广东卫视" tvg-name="9-广东卫视" group-title="内蒙古赤峰市酒店  联通",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="9-浙江卫视" tvg-name="9-浙江卫视" group-title="内蒙古赤峰市酒店  联通",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="9-海南卫视" tvg-name="9-海南卫视" group-title="内蒙古赤峰市酒店  联通",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="9-深圳卫视" tvg-name="9-深圳卫视" group-title="内蒙古赤峰市酒店  联通",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="9-湖北卫视" tvg-name="9-湖北卫视" group-title="内蒙古赤峰市酒店  联通",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="9-湖南卫视" tvg-name="9-湖南卫视" group-title="内蒙古赤峰市酒店  联通",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="9-甘肃卫视" tvg-name="9-甘肃卫视" group-title="内蒙古赤峰市酒店  联通",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="9-金鹰纪实" tvg-name="9-金鹰纪实" group-title="内蒙古赤峰市酒店  联通",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="9-凤凰资讯" tvg-name="9-凤凰资讯" group-title="内蒙古赤峰市酒店  联通",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="9-凤凰中文" tvg-name="9-凤凰中文" group-title="内蒙古赤峰市酒店  联通",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="9-东南卫视" tvg-name="9-东南卫视" group-title="内蒙古赤峰市酒店  联通",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="9-厦门卫视" tvg-name="9-厦门卫视" group-title="内蒙古赤峰市酒店  联通",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="9-海峡卫视" tvg-name="9-海峡卫视" group-title="内蒙古赤峰市酒店  联通",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="9-福建综合" tvg-name="9-福建综合" group-title="内蒙古赤峰市酒店  联通",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="9-福建公共" tvg-name="9-福建公共" group-title="内蒙古赤峰市酒店  联通",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="9-福建新闻" tvg-name="9-福建新闻" group-title="内蒙古赤峰市酒店  联通",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="9-福建电视剧" tvg-name="9-福建电视剧" group-title="内蒙古赤峰市酒店  联通",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="9-福建旅游" tvg-name="9-福建旅游" group-title="内蒙古赤峰市酒店  联通",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="9-福建经济" tvg-name="9-福建经济" group-title="内蒙古赤峰市酒店  联通",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="9-福建少儿" tvg-name="9-福建少儿" group-title="内蒙古赤峰市酒店  联通",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="9-福建文体" tvg-name="9-福建文体" group-title="内蒙古赤峰市酒店  联通",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="9-福建教育" tvg-name="9-福建教育" group-title="内蒙古赤峰市酒店  联通",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="9-厦门-1" tvg-name="9-厦门-1" group-title="内蒙古赤峰市酒店  联通",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="9-厦门-2" tvg-name="9-厦门-2" group-title="内蒙古赤峰市酒店  联通",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="9-南平综合" tvg-name="9-南平综合" group-title="内蒙古赤峰市酒店  联通",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="9-宁德综合" tvg-name="9-宁德综合" group-title="内蒙古赤峰市酒店  联通",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="9-龙岩综合" tvg-name="9-龙岩综合" group-title="内蒙古赤峰市酒店  联通",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="9-三明综合" tvg-name="9-三明综合" group-title="内蒙古赤峰市酒店  联通",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="9-平潭综合" tvg-name="9-平潭综合" group-title="内蒙古赤峰市酒店  联通",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="9-泉州综合" tvg-name="9-泉州综合" group-title="内蒙古赤峰市酒店  联通",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="9-福州综合" tvg-name="9-福州综合" group-title="内蒙古赤峰市酒店  联通",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="9-莆田综合" tvg-name="9-莆田综合" group-title="内蒙古赤峰市酒店  联通",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="9-漳州综合" tvg-name="9-漳州综合" group-title="内蒙古赤峰市酒店  联通",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-1 HD" tvg-name="10-CCTV-1 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-2 HD" tvg-name="10-CCTV-2 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-3 HD" tvg-name="10-CCTV-3 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-4 HD" tvg-name="10-CCTV-4 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-5 HD" tvg-name="10-CCTV-5 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-6 HD" tvg-name="10-CCTV-6 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-7 HD" tvg-name="10-CCTV-7 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-8 HD" tvg-name="10-CCTV-8 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-9 HD" tvg-name="10-CCTV-9 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-10 HD" tvg-name="10-CCTV-10 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-11 HD" tvg-name="10-CCTV-11 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-12 HD" tvg-name="10-CCTV-12 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-13 HD" tvg-name="10-CCTV-13 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-14 HD" tvg-name="10-CCTV-14 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-15 HD" tvg-name="10-CCTV-15 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-17 HD" tvg-name="10-CCTV-17 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-5＋ HD" tvg-name="10-CCTV-5＋ HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="10-CCTV-16 HD" tvg-name="10-CCTV-16 HD" group-title="黑龙江省哈尔滨市双城区酒店  联通",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="10-三沙卫视" tvg-name="10-三沙卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="10-云南卫视" tvg-name="10-云南卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="10-贵州卫视" tvg-name="10-贵州卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="10-辽宁卫视" tvg-name="10-辽宁卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="10-重庆卫视" tvg-name="10-重庆卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="10-青海卫视" tvg-name="10-青海卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="10-黑龙江卫视" tvg-name="10-黑龙江卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="10-北京卫视" tvg-name="10-北京卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="10-吉林卫视" tvg-name="10-吉林卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="10-天津卫视" tvg-name="10-天津卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="10-四川卫视" tvg-name="10-四川卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="10-安徽卫视" tvg-name="10-安徽卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="10-山东卫视" tvg-name="10-山东卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="10-江苏卫视" tvg-name="10-江苏卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="10-江西卫视" tvg-name="10-江西卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="10-河北卫视" tvg-name="10-河北卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="10-河南卫视" tvg-name="10-河南卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="10-东方卫视" tvg-name="10-东方卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="10-广西卫视" tvg-name="10-广西卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="10-广东卫视" tvg-name="10-广东卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="10-浙江卫视" tvg-name="10-浙江卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="10-海南卫视" tvg-name="10-海南卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="10-深圳卫视" tvg-name="10-深圳卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="10-湖北卫视" tvg-name="10-湖北卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="10-湖南卫视" tvg-name="10-湖南卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="10-甘肃卫视" tvg-name="10-甘肃卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="10-金鹰纪实" tvg-name="10-金鹰纪实" group-title="黑龙江省哈尔滨市双城区酒店  联通",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="10-凤凰资讯" tvg-name="10-凤凰资讯" group-title="黑龙江省哈尔滨市双城区酒店  联通",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="10-凤凰中文" tvg-name="10-凤凰中文" group-title="黑龙江省哈尔滨市双城区酒店  联通",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="10-东南卫视" tvg-name="10-东南卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="10-厦门卫视" tvg-name="10-厦门卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="10-海峡卫视" tvg-name="10-海峡卫视" group-title="黑龙江省哈尔滨市双城区酒店  联通",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="10-福建综合" tvg-name="10-福建综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="10-福建公共" tvg-name="10-福建公共" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="10-福建新闻" tvg-name="10-福建新闻" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="10-福建电视剧" tvg-name="10-福建电视剧" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="10-福建旅游" tvg-name="10-福建旅游" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="10-福建经济" tvg-name="10-福建经济" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="10-福建少儿" tvg-name="10-福建少儿" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="10-福建文体" tvg-name="10-福建文体" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="10-福建教育" tvg-name="10-福建教育" group-title="黑龙江省哈尔滨市双城区酒店  联通",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="10-厦门-1" tvg-name="10-厦门-1" group-title="黑龙江省哈尔滨市双城区酒店  联通",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="10-厦门-2" tvg-name="10-厦门-2" group-title="黑龙江省哈尔滨市双城区酒店  联通",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="10-南平综合" tvg-name="10-南平综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="10-宁德综合" tvg-name="10-宁德综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="10-龙岩综合" tvg-name="10-龙岩综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="10-三明综合" tvg-name="10-三明综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="10-平潭综合" tvg-name="10-平潭综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="10-泉州综合" tvg-name="10-泉州综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="10-福州综合" tvg-name="10-福州综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="10-莆田综合" tvg-name="10-莆田综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="10-漳州综合" tvg-name="10-漳州综合" group-title="黑龙江省哈尔滨市双城区酒店  联通",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-1 HD" tvg-name="11-CCTV-1 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-2 HD" tvg-name="11-CCTV-2 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-3 HD" tvg-name="11-CCTV-3 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-4 HD" tvg-name="11-CCTV-4 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-5 HD" tvg-name="11-CCTV-5 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-6 HD" tvg-name="11-CCTV-6 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-7 HD" tvg-name="11-CCTV-7 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-8 HD" tvg-name="11-CCTV-8 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-9 HD" tvg-name="11-CCTV-9 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-10 HD" tvg-name="11-CCTV-10 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-11 HD" tvg-name="11-CCTV-11 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-12 HD" tvg-name="11-CCTV-12 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-13 HD" tvg-name="11-CCTV-13 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-14 HD" tvg-name="11-CCTV-14 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-15 HD" tvg-name="11-CCTV-15 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-17 HD" tvg-name="11-CCTV-17 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-5＋ HD" tvg-name="11-CCTV-5＋ HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="11-CCTV-16 HD" tvg-name="11-CCTV-16 HD" group-title="黑龙江省哈尔滨市酒店  联通",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="11-三沙卫视" tvg-name="11-三沙卫视" group-title="黑龙江省哈尔滨市酒店  联通",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="11-云南卫视" tvg-name="11-云南卫视" group-title="黑龙江省哈尔滨市酒店  联通",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="11-贵州卫视" tvg-name="11-贵州卫视" group-title="黑龙江省哈尔滨市酒店  联通",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="11-辽宁卫视" tvg-name="11-辽宁卫视" group-title="黑龙江省哈尔滨市酒店  联通",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="11-重庆卫视" tvg-name="11-重庆卫视" group-title="黑龙江省哈尔滨市酒店  联通",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="11-青海卫视" tvg-name="11-青海卫视" group-title="黑龙江省哈尔滨市酒店  联通",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="11-黑龙江卫视" tvg-name="11-黑龙江卫视" group-title="黑龙江省哈尔滨市酒店  联通",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="11-北京卫视" tvg-name="11-北京卫视" group-title="黑龙江省哈尔滨市酒店  联通",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="11-吉林卫视" tvg-name="11-吉林卫视" group-title="黑龙江省哈尔滨市酒店  联通",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="11-天津卫视" tvg-name="11-天津卫视" group-title="黑龙江省哈尔滨市酒店  联通",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="11-四川卫视" tvg-name="11-四川卫视" group-title="黑龙江省哈尔滨市酒店  联通",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="11-安徽卫视" tvg-name="11-安徽卫视" group-title="黑龙江省哈尔滨市酒店  联通",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="11-山东卫视" tvg-name="11-山东卫视" group-title="黑龙江省哈尔滨市酒店  联通",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="11-江苏卫视" tvg-name="11-江苏卫视" group-title="黑龙江省哈尔滨市酒店  联通",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="11-江西卫视" tvg-name="11-江西卫视" group-title="黑龙江省哈尔滨市酒店  联通",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="11-河北卫视" tvg-name="11-河北卫视" group-title="黑龙江省哈尔滨市酒店  联通",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="11-河南卫视" tvg-name="11-河南卫视" group-title="黑龙江省哈尔滨市酒店  联通",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="11-东方卫视" tvg-name="11-东方卫视" group-title="黑龙江省哈尔滨市酒店  联通",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="11-广西卫视" tvg-name="11-广西卫视" group-title="黑龙江省哈尔滨市酒店  联通",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="11-广东卫视" tvg-name="11-广东卫视" group-title="黑龙江省哈尔滨市酒店  联通",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="11-浙江卫视" tvg-name="11-浙江卫视" group-title="黑龙江省哈尔滨市酒店  联通",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="11-海南卫视" tvg-name="11-海南卫视" group-title="黑龙江省哈尔滨市酒店  联通",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="11-深圳卫视" tvg-name="11-深圳卫视" group-title="黑龙江省哈尔滨市酒店  联通",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="11-湖北卫视" tvg-name="11-湖北卫视" group-title="黑龙江省哈尔滨市酒店  联通",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="11-湖南卫视" tvg-name="11-湖南卫视" group-title="黑龙江省哈尔滨市酒店  联通",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="11-甘肃卫视" tvg-name="11-甘肃卫视" group-title="黑龙江省哈尔滨市酒店  联通",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="11-金鹰纪实" tvg-name="11-金鹰纪实" group-title="黑龙江省哈尔滨市酒店  联通",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="11-凤凰资讯" tvg-name="11-凤凰资讯" group-title="黑龙江省哈尔滨市酒店  联通",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="11-凤凰中文" tvg-name="11-凤凰中文" group-title="黑龙江省哈尔滨市酒店  联通",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="11-东南卫视" tvg-name="11-东南卫视" group-title="黑龙江省哈尔滨市酒店  联通",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="11-厦门卫视" tvg-name="11-厦门卫视" group-title="黑龙江省哈尔滨市酒店  联通",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="11-海峡卫视" tvg-name="11-海峡卫视" group-title="黑龙江省哈尔滨市酒店  联通",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="11-福建综合" tvg-name="11-福建综合" group-title="黑龙江省哈尔滨市酒店  联通",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="11-福建公共" tvg-name="11-福建公共" group-title="黑龙江省哈尔滨市酒店  联通",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="11-福建新闻" tvg-name="11-福建新闻" group-title="黑龙江省哈尔滨市酒店  联通",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="11-福建电视剧" tvg-name="11-福建电视剧" group-title="黑龙江省哈尔滨市酒店  联通",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="11-福建旅游" tvg-name="11-福建旅游" group-title="黑龙江省哈尔滨市酒店  联通",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="11-福建经济" tvg-name="11-福建经济" group-title="黑龙江省哈尔滨市酒店  联通",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="11-福建少儿" tvg-name="11-福建少儿" group-title="黑龙江省哈尔滨市酒店  联通",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="11-福建文体" tvg-name="11-福建文体" group-title="黑龙江省哈尔滨市酒店  联通",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="11-福建教育" tvg-name="11-福建教育" group-title="黑龙江省哈尔滨市酒店  联通",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="11-厦门-1" tvg-name="11-厦门-1" group-title="黑龙江省哈尔滨市酒店  联通",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="11-厦门-2" tvg-name="11-厦门-2" group-title="黑龙江省哈尔滨市酒店  联通",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="11-南平综合" tvg-name="11-南平综合" group-title="黑龙江省哈尔滨市酒店  联通",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="11-宁德综合" tvg-name="11-宁德综合" group-title="黑龙江省哈尔滨市酒店  联通",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="11-龙岩综合" tvg-name="11-龙岩综合" group-title="黑龙江省哈尔滨市酒店  联通",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="11-三明综合" tvg-name="11-三明综合" group-title="黑龙江省哈尔滨市酒店  联通",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="11-平潭综合" tvg-name="11-平潭综合" group-title="黑龙江省哈尔滨市酒店  联通",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="11-泉州综合" tvg-name="11-泉州综合" group-title="黑龙江省哈尔滨市酒店  联通",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="11-福州综合" tvg-name="11-福州综合" group-title="黑龙江省哈尔滨市酒店  联通",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="11-莆田综合" tvg-name="11-莆田综合" group-title="黑龙江省哈尔滨市酒店  联通",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="11-漳州综合" tvg-name="11-漳州综合" group-title="黑龙江省哈尔滨市酒店  联通",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-1 HD" tvg-name="12-CCTV-1 HD" group-title="福建省漳州市酒店  电信",CCTV-1 HD
+http://117.27.190.42:9998/tsfile/live/23232_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-2 HD" tvg-name="12-CCTV-2 HD" group-title="福建省漳州市酒店  电信",CCTV-2 HD
+http://117.27.190.42:9998/tsfile/live/23233_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-3 HD" tvg-name="12-CCTV-3 HD" group-title="福建省漳州市酒店  电信",CCTV-3 HD
+http://117.27.190.42:9998/tsfile/live/23234_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-4 HD" tvg-name="12-CCTV-4 HD" group-title="福建省漳州市酒店  电信",CCTV-4 HD
+http://117.27.190.42:9998/tsfile/live/23235_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-5 HD" tvg-name="12-CCTV-5 HD" group-title="福建省漳州市酒店  电信",CCTV-5 HD
+http://117.27.190.42:9998/tsfile/live/23236_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-6 HD" tvg-name="12-CCTV-6 HD" group-title="福建省漳州市酒店  电信",CCTV-6 HD
+http://117.27.190.42:9998/tsfile/live/23237_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-7 HD" tvg-name="12-CCTV-7 HD" group-title="福建省漳州市酒店  电信",CCTV-7 HD
+http://117.27.190.42:9998/tsfile/live/23238_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-8 HD" tvg-name="12-CCTV-8 HD" group-title="福建省漳州市酒店  电信",CCTV-8 HD
+http://117.27.190.42:9998/tsfile/live/23239_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-9 HD" tvg-name="12-CCTV-9 HD" group-title="福建省漳州市酒店  电信",CCTV-9 HD
+http://117.27.190.42:9998/tsfile/live/23240_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-10 HD" tvg-name="12-CCTV-10 HD" group-title="福建省漳州市酒店  电信",CCTV-10 HD
+http://117.27.190.42:9998/tsfile/live/23241_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-11 HD" tvg-name="12-CCTV-11 HD" group-title="福建省漳州市酒店  电信",CCTV-11 HD
+http://117.27.190.42:9998/tsfile/live/23242_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-12 HD" tvg-name="12-CCTV-12 HD" group-title="福建省漳州市酒店  电信",CCTV-12 HD
+http://117.27.190.42:9998/tsfile/live/23243_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-13 HD" tvg-name="12-CCTV-13 HD" group-title="福建省漳州市酒店  电信",CCTV-13 HD
+http://117.27.190.42:9998/tsfile/live/23244_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-14 HD" tvg-name="12-CCTV-14 HD" group-title="福建省漳州市酒店  电信",CCTV-14 HD
+http://117.27.190.42:9998/tsfile/live/23245_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-15 HD" tvg-name="12-CCTV-15 HD" group-title="福建省漳州市酒店  电信",CCTV-15 HD
+http://117.27.190.42:9998/tsfile/live/23246_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-17 HD" tvg-name="12-CCTV-17 HD" group-title="福建省漳州市酒店  电信",CCTV-17 HD
+http://117.27.190.42:9998/tsfile/live/23247_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-5＋ HD" tvg-name="12-CCTV-5＋ HD" group-title="福建省漳州市酒店  电信",CCTV-5＋ HD
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8
+#EXTINF:-1,tvg-id="12-CCTV-16 HD" tvg-name="12-CCTV-16 HD" group-title="福建省漳州市酒店  电信",CCTV-16 HD
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
+#EXTINF:-1,tvg-id="12-三沙卫视" tvg-name="12-三沙卫视" group-title="福建省漳州市酒店  电信",三沙卫视
+http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
+#EXTINF:-1,tvg-id="12-云南卫视" tvg-name="12-云南卫视" group-title="福建省漳州市酒店  电信",云南卫视
+http://117.27.190.42:9998/tsfile/live/23251_1.m3u8
+#EXTINF:-1,tvg-id="12-贵州卫视" tvg-name="12-贵州卫视" group-title="福建省漳州市酒店  电信",贵州卫视
+http://117.27.190.42:9998/tsfile/live/23252_1.m3u8
+#EXTINF:-1,tvg-id="12-辽宁卫视" tvg-name="12-辽宁卫视" group-title="福建省漳州市酒店  电信",辽宁卫视
+http://117.27.190.42:9998/tsfile/live/23253_1.m3u8
+#EXTINF:-1,tvg-id="12-重庆卫视" tvg-name="12-重庆卫视" group-title="福建省漳州市酒店  电信",重庆卫视
+http://117.27.190.42:9998/tsfile/live/23254_1.m3u8
+#EXTINF:-1,tvg-id="12-青海卫视" tvg-name="12-青海卫视" group-title="福建省漳州市酒店  电信",青海卫视
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8
+#EXTINF:-1,tvg-id="12-黑龙江卫视" tvg-name="12-黑龙江卫视" group-title="福建省漳州市酒店  电信",黑龙江卫视
+http://117.27.190.42:9998/tsfile/live/23256_1.m3u8
+#EXTINF:-1,tvg-id="12-北京卫视" tvg-name="12-北京卫视" group-title="福建省漳州市酒店  电信",北京卫视
+http://117.27.190.42:9998/tsfile/live/23257_1.m3u8
+#EXTINF:-1,tvg-id="12-吉林卫视" tvg-name="12-吉林卫视" group-title="福建省漳州市酒店  电信",吉林卫视
+http://117.27.190.42:9998/tsfile/live/23258_1.m3u8
+#EXTINF:-1,tvg-id="12-天津卫视" tvg-name="12-天津卫视" group-title="福建省漳州市酒店  电信",天津卫视
+http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+#EXTINF:-1,tvg-id="12-四川卫视" tvg-name="12-四川卫视" group-title="福建省漳州市酒店  电信",四川卫视
+http://117.27.190.42:9998/tsfile/live/23260_1.m3u8
+#EXTINF:-1,tvg-id="12-安徽卫视" tvg-name="12-安徽卫视" group-title="福建省漳州市酒店  电信",安徽卫视
+http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
+#EXTINF:-1,tvg-id="12-山东卫视" tvg-name="12-山东卫视" group-title="福建省漳州市酒店  电信",山东卫视
+http://117.27.190.42:9998/tsfile/live/23263_1.m3u8
+#EXTINF:-1,tvg-id="12-江苏卫视" tvg-name="12-江苏卫视" group-title="福建省漳州市酒店  电信",江苏卫视
+http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+#EXTINF:-1,tvg-id="12-江西卫视" tvg-name="12-江西卫视" group-title="福建省漳州市酒店  电信",江西卫视
+http://117.27.190.42:9998/tsfile/live/23265_1.m3u8
+#EXTINF:-1,tvg-id="12-河北卫视" tvg-name="12-河北卫视" group-title="福建省漳州市酒店  电信",河北卫视
+http://117.27.190.42:9998/tsfile/live/23266_1.m3u8
+#EXTINF:-1,tvg-id="12-河南卫视" tvg-name="12-河南卫视" group-title="福建省漳州市酒店  电信",河南卫视
+http://117.27.190.42:9998/tsfile/live/23267_1.m3u8
+#EXTINF:-1,tvg-id="12-东方卫视" tvg-name="12-东方卫视" group-title="福建省漳州市酒店  电信",东方卫视
+http://117.27.190.42:9998/tsfile/live/23268_1.m3u8
+#EXTINF:-1,tvg-id="12-广西卫视" tvg-name="12-广西卫视" group-title="福建省漳州市酒店  电信",广西卫视
+http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
+#EXTINF:-1,tvg-id="12-广东卫视" tvg-name="12-广东卫视" group-title="福建省漳州市酒店  电信",广东卫视
+http://117.27.190.42:9998/tsfile/live/23270_1.m3u8
+#EXTINF:-1,tvg-id="12-浙江卫视" tvg-name="12-浙江卫视" group-title="福建省漳州市酒店  电信",浙江卫视
+http://117.27.190.42:9998/tsfile/live/23271_1.m3u8
+#EXTINF:-1,tvg-id="12-海南卫视" tvg-name="12-海南卫视" group-title="福建省漳州市酒店  电信",海南卫视
+http://117.27.190.42:9998/tsfile/live/23273_1.m3u8
+#EXTINF:-1,tvg-id="12-深圳卫视" tvg-name="12-深圳卫视" group-title="福建省漳州市酒店  电信",深圳卫视
+http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
+#EXTINF:-1,tvg-id="12-湖北卫视" tvg-name="12-湖北卫视" group-title="福建省漳州市酒店  电信",湖北卫视
+http://117.27.190.42:9998/tsfile/live/23275_1.m3u8
+#EXTINF:-1,tvg-id="12-湖南卫视" tvg-name="12-湖南卫视" group-title="福建省漳州市酒店  电信",湖南卫视
+http://117.27.190.42:9998/tsfile/live/23276_1.m3u8
+#EXTINF:-1,tvg-id="12-甘肃卫视" tvg-name="12-甘肃卫视" group-title="福建省漳州市酒店  电信",甘肃卫视
+http://117.27.190.42:9998/tsfile/live/23277_1.m3u8
+#EXTINF:-1,tvg-id="12-金鹰纪实" tvg-name="12-金鹰纪实" group-title="福建省漳州市酒店  电信",金鹰纪实
+http://117.27.190.42:9998/tsfile/live/23278_1.m3u8
+#EXTINF:-1,tvg-id="12-凤凰资讯" tvg-name="12-凤凰资讯" group-title="福建省漳州市酒店  电信",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
+#EXTINF:-1,tvg-id="12-凤凰中文" tvg-name="12-凤凰中文" group-title="福建省漳州市酒店  电信",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+#EXTINF:-1,tvg-id="12-东南卫视" tvg-name="12-东南卫视" group-title="福建省漳州市酒店  电信",东南卫视
+http://117.27.190.42:9998/tsfile/live/23281_1.m3u8
+#EXTINF:-1,tvg-id="12-厦门卫视" tvg-name="12-厦门卫视" group-title="福建省漳州市酒店  电信",厦门卫视
+http://117.27.190.42:9998/tsfile/live/23282_1.m3u8
+#EXTINF:-1,tvg-id="12-海峡卫视" tvg-name="12-海峡卫视" group-title="福建省漳州市酒店  电信",海峡卫视
+http://117.27.190.42:9998/tsfile/live/23283_1.m3u8
+#EXTINF:-1,tvg-id="12-福建综合" tvg-name="12-福建综合" group-title="福建省漳州市酒店  电信",福建综合
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+#EXTINF:-1,tvg-id="12-福建公共" tvg-name="12-福建公共" group-title="福建省漳州市酒店  电信",福建公共
+http://117.27.190.42:9998/tsfile/live/23285_1.m3u8
+#EXTINF:-1,tvg-id="12-福建新闻" tvg-name="12-福建新闻" group-title="福建省漳州市酒店  电信",福建新闻
+http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
+#EXTINF:-1,tvg-id="12-福建电视剧" tvg-name="12-福建电视剧" group-title="福建省漳州市酒店  电信",福建电视剧
+http://117.27.190.42:9998/tsfile/live/23287_1.m3u8
+#EXTINF:-1,tvg-id="12-福建旅游" tvg-name="12-福建旅游" group-title="福建省漳州市酒店  电信",福建旅游
+http://117.27.190.42:9998/tsfile/live/23288_1.m3u8
+#EXTINF:-1,tvg-id="12-福建经济" tvg-name="12-福建经济" group-title="福建省漳州市酒店  电信",福建经济
+http://117.27.190.42:9998/tsfile/live/23289_1.m3u8
+#EXTINF:-1,tvg-id="12-福建少儿" tvg-name="12-福建少儿" group-title="福建省漳州市酒店  电信",福建少儿
+http://117.27.190.42:9998/tsfile/live/23290_1.m3u8
+#EXTINF:-1,tvg-id="12-福建文体" tvg-name="12-福建文体" group-title="福建省漳州市酒店  电信",福建文体
+http://117.27.190.42:9998/tsfile/live/23291_1.m3u8
+#EXTINF:-1,tvg-id="12-福建教育" tvg-name="12-福建教育" group-title="福建省漳州市酒店  电信",福建教育
+http://117.27.190.42:9998/tsfile/live/23292_1.m3u8
+#EXTINF:-1,tvg-id="12-厦门-1" tvg-name="12-厦门-1" group-title="福建省漳州市酒店  电信",厦门-1
+http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
+#EXTINF:-1,tvg-id="12-厦门-2" tvg-name="12-厦门-2" group-title="福建省漳州市酒店  电信",厦门-2
+http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
+#EXTINF:-1,tvg-id="12-南平综合" tvg-name="12-南平综合" group-title="福建省漳州市酒店  电信",南平综合
+http://117.27.190.42:9998/tsfile/live/23295_1.m3u8
+#EXTINF:-1,tvg-id="12-宁德综合" tvg-name="12-宁德综合" group-title="福建省漳州市酒店  电信",宁德综合
+http://117.27.190.42:9998/tsfile/live/23296_1.m3u8
+#EXTINF:-1,tvg-id="12-龙岩综合" tvg-name="12-龙岩综合" group-title="福建省漳州市酒店  电信",龙岩综合
+http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
+#EXTINF:-1,tvg-id="12-三明综合" tvg-name="12-三明综合" group-title="福建省漳州市酒店  电信",三明综合
+http://117.27.190.42:9998/tsfile/live/23298_1.m3u8
+#EXTINF:-1,tvg-id="12-平潭综合" tvg-name="12-平潭综合" group-title="福建省漳州市酒店  电信",平潭综合
+http://117.27.190.42:9998/tsfile/live/23299_1.m3u8
+#EXTINF:-1,tvg-id="12-泉州综合" tvg-name="12-泉州综合" group-title="福建省漳州市酒店  电信",泉州综合
+http://117.27.190.42:9998/tsfile/live/23300_1.m3u8
+#EXTINF:-1,tvg-id="12-福州综合" tvg-name="12-福州综合" group-title="福建省漳州市酒店  电信",福州综合
+http://117.27.190.42:9998/tsfile/live/23301_1.m3u8
+#EXTINF:-1,tvg-id="12-莆田综合" tvg-name="12-莆田综合" group-title="福建省漳州市酒店  电信",莆田综合
+http://117.27.190.42:9998/tsfile/live/23302_1.m3u8
+#EXTINF:-1,tvg-id="12-漳州综合" tvg-name="12-漳州综合" group-title="福建省漳州市酒店  电信",漳州综合
+http://117.27.190.42:9998/tsfile/live/23303_1.m3u8
